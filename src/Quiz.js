@@ -5,6 +5,7 @@ function Quiz() {
     const [currentIndex, setCurrentIndex] = useState(0);
     const [selectedAnswer, setSelectedAnswer] = useState(null);
     const [result, setResult] = useState(null);
+    const [correctAnswers, setCorrectAnswers] = useState(0);
 
     // Dữ liệu câu hỏi từ JSON
     const question = questionData[currentIndex];
@@ -18,6 +19,7 @@ function Quiz() {
         } else {
             setResult("Bạn đã chọn sai!");
         }
+       
     };
 
     const handleNext = () => {
@@ -82,7 +84,7 @@ function Quiz() {
     }}>Tiếp theo</button>
                 </div>
             </div>
-            
+            <p>Tổng câu đúng: {correctAnswers} / {questionData.length}</p>
         </div>
     );
 }
