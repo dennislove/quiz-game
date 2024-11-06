@@ -1,23 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from 'react';
+import Quiz from './Quiz';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{padding:'20px'}}>
+      <h2 style={{color:'red', textAlign:'center'}}>Ngân hàng câu hỏi thi ILP</h2>
+      <Quiz/>
+      <h2 style={{marginTop:'50px', fontSize:'20px'}}>Design by Dennis</h2>
     </div>
   );
 }

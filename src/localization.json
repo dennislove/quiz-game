@@ -1,0 +1,1997 @@
+[
+  
+    {
+      "1": "A. Là thị trường mua bán, trao đổi các công cụ tài chính trung và dài hạn",
+      "2": "B. Là thị trường mua bán, trao đổi các công cụ tài chính ngắn hạn",
+      "3": "C. Các công cụ tài chính trên thị trường tiền tệ có tính thanh khoản kém hơn, độ rủi ro cao hơn thị trường vốn",
+      "4": "D. A,C đúng",
+      "ID": "ILP-VIDI-1",
+      "question": "Phát biểu nào sau đây đúng khi nói về thị trường tiền tệ:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Tín phiếu kho bạc, thương phiếu, chấp phiếu ngân hàng, hợp đồng thỏa thuận mua lại (Repo)",
+      "2": "B. Cổ phiếu, trái phiếu, các khoản tín dụng cầm cố, các khoản tín dụng thương mại, chứng chỉ quỹ đầu tư",
+      "3": "C. Tín phiếu kho bạc, thương phiếu, chấp phiếu ngân hàng, trái phiếu, chứng chỉ quỹ đầu tư",
+      "4": "D. Tín phiếu kho bạc, thương phiếu, chấp phiếu ngân hàng, cổ phiếu, trái phiếu",
+      "ID": "ILP-VIDI-2",
+      "question": "Các tài sản đầu tư trên thị trường vốn bao gồm:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Các công cụ giao dịch trên thị trường vốn cổ phần đều có kỳ hạn nhất định",
+      "2": "B. Các công cụ giao dịch trên thị trường vốn cổ phần đều không có kỳ hạn",
+      "3": "C. Hoạt động trên thị trường vốn cổ phần phụ thuộc chủ yếu vào hiệu quả kinh doanh của công ty cổ phần",
+      "4": "D. B, C đúng",
+      "ID": "ILP-VIDI-3",
+      "question": "Phát biểu nào sau đây đúng khi nói về thị trường vốn cổ phần:",
+      "answer": "4"
+    },
+    {
+      "1": "A. Dẫn vốn từ những nơi thừa vốn sang nơi thiếu vốn",
+      "2": "B. Hình thành giá của các tài sản tài chính, tạo tính thanh khoản cho tài sản tài chính",
+      "3": "C. Ổn định và điều hòa lưu thông tiền tệ, đảm bảo sự phát triển lành mạnh của nền kinh tế",
+      "4": "D. Giảm thiểu chi phí tìm kiếm và chi phí thông tin cho các nhà đầu tư",
+      "5": "E. A,B,C,D đều đúng",
+      "ID": "ILP-VIDI-4",
+      "question": "Chọn answernhất về chức năng của thị trường tài chính?",
+      "answer": "5"
+    },
+    {
+      "1": "A. Các công cụ giao dịch trên thị trường nợ đều có kỳ hạn nhất định",
+      "2": "B. Các công cụ giao dịch trên thị trường nợ đều không có kỳ hạn",
+      "3": "C. Hoạt động trên thị trường nợ phụ thuộc rất lớn vào biến động của lãi suất ngân hàng",
+      "4": "D. A, C đúng",
+      "ID": "ILP-VIDI-5",
+      "question": "Phát biểu nào sau đây đúng khi nói về thị trường nợ:",
+      "answer": "4"
+    },
+    {
+      "1": "A. Thị trường tiền tệ, thị trường vốn",
+      "2": "B. Thị trường nợ, thị trường vốn cổ phần.",
+      "3": "C. Thị trường sơ cấp, thị trường thứ cấp.",
+      "4": "D. Thị trường tiền tệ, thị trường nợ, thị trường vốn cổ phần",
+      "ID": "ILP-VIDI-6",
+      "question": "Theo phân loại dựa trên tính chất của việc phát hành các công cụ tài chính, thị trường tài chính bao gồm:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Thị trường tiền tệ, thị trường vốn",
+      "2": "B. Thị trường nợ, thị trường vốn cổ phần.",
+      "3": "C. Thị trường sơ cấp, thị trường thứ cấp.",
+      "4": "D. Thị trường tiền tệ, thị trường nợ, thị trường vốn cổ phần",
+      "ID": "ILP-VIDI-7",
+      "question": "Theo phân loại dựa trên cách thức huy động vốn, thị trường tài chính bao gồm:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Là loại chứng khoán xác nhận quyền và lợi ích hợp pháp của người sở hữu đối với một phần vốn cổ phần của tổ chức phát hành",
+      "2": "B. Là loại chứng khoán xác nhận quyền và lợi ích hợp pháp của người sở hữu đối với một phần nợ của tổ chức phát hành.",
+      "3": "C. Là loại chứng khoán xác nhận quyền sở hữu của nhà đầu tư đối với một phần vốn góp của quỹ đầu tư chứng khoán",
+      "4": "D. Là loại chứng khoán được phát hành trên cơ sở chứng khoán của tổ chức được thành lập và hoạt động hợp pháp tại Việt Nam",
+      "ID": "ILP-VIDI-8",
+      "question": "Quỹ liên kết đơn vị có thể đầu tư vào cổ phiếu, trong đó cổ phiếu là gì?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Tín phiếu kho bạc, thương phiếu, chấp phiếu ngân hàng, hợp đồng thỏa thuận mua lại (Repo)",
+      "2": "B. Cổ phiếu, trái phiếu, các khoản tín dụng cầm cố, các khoản tín dụng thương mại, chứng chỉ quỹ đầu tư",
+      "3": "C. Tín phiếu kho bạc, thương phiếu, chấp phiếu ngân hàng, trái phiếu, chứng chỉ quỹ đầu tư",
+      "4": "D. Tín phiếu kho bạc, thương phiếu, chấp phiếu ngân hàng, cổ phiếu, trái phiếu",
+      "ID": "ILP-VIDI-9",
+      "question": "Các tài sản đầu tư trên thị trường tiền tệ bao gồm:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Là thị trường mua bán, trao đổi các công cụ tài chính ngắn hạn",
+      "2": "B. Là thị trường mua bán, trao đổi các công cụ tài chính trung và dài hạn",
+      "3": "C. Các công cụ tài chính trên thị trường vốn có tính thanh khoản kém hơn, độ rủi ro cao hơn thị trường tiền tệ",
+      "4": "D. B, C đúng",
+      "ID": "ILP-VIDI-10",
+      "question": "Phát biểu nào sau đây đúng khi nói về thị trường vốn:",
+      "answer": "4"
+    },
+    {
+      "1": "A. Thị trường tiền tệ, thị trường vốn",
+      "2": "B. Thị trường nợ, thị trường vốn cổ phần.",
+      "3": "C. Thị trường sơ cấp, thị trường thứ cấp.",
+      "4": "D. Thị trường tiền tệ, thị trường nợ, thị trường vốn cổ phần",
+      "ID": "ILP-VIDI-11",
+      "question": "Theo phân loại dựa trên thời gian luân chuyển vốn, thị trường tài chính bao gồm:",
+      "answer": "1"
+    },
+    {
+      "1": "A.   Sản phẩm bảo hiểm tử kỳ và sinh kỳ",
+      "2": "B.   Sản phẩm bảo hiểm trọn đời và trả tiền định kỳ",
+      "3": "C. Sản phẩm bảo hiểm liên kết chung và liên kết đơn vị",
+      "4": "D. Sản phẩm bảo hiểm hưu trí",
+      "ID": "ILP-VIDI-12",
+      "question": "Sản phẩm nào sau đây thuộc nghiệp vụ liên kết đầu tư?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Cơ cấu phí bảo hiểm và quyền lợi bảo hiểm được tách bạch giữa phần bảo hiểm rủi ro và phần đầu tư",
+      "2": "B. Bên mua bảo hiểm được doanh nghiệp bảo hiểm cam kết lãi suất đầu tư tối thiểu",
+      "3": "C. Chỉ có 1 quỹ đầu tư duy nhất",
+      "4": "D. Bên mua bảo hiểm không được linh hoạt trong việc xác định phí bảo hiểm và số tiền bảo hiểm",
+      "ID": "ILP-VIDI-13",
+      "question": "Điểm giống nhau giữa bảo hiểm liên kết chung và bảo hiểm liên kết đơn vị là?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Bên mua bảo hiểm được quyền lựa chọn đầu tư phí bảo hiểm của mình để mua các đơn vị của các quỹ liên kết đơn vị do Doanh nghiệp Bảo hiểm thành lập. Được hưởng toàn bộ kết quả đầu tư và chịu mọi rủi ro đầu tư từ các quỹ liên kết đơn vị đã lựa chọn tương ứng với phần phí đầu tư.",
+      "2": "B. Bên mua bảo hiểm được quyền lựa chọn đầu tư phí bảo hiểm của mình để mua các đơn vị của các quỹ liên kệt đơn vị do Doanh nghiệp Bảo hiểm thành lập. Được hưởng toàn bộ kết quả đầu tư nhưng không chịu rủi ro đầu tư từ các quỹ liên kết đơn vị đã lựa chọn tương ứng với phần phí đầu tư.",
+      "3": "C. Việc mua bán các Đơn vị quỹ liên kết đơn vị có thể được thực hiện giữa Doanh nghiệp bảo hiểm và Công ty quản lý quỹ",
+      "4": "D. Doanh nghiệp bảo hiểm được hưởng toàn bộ kết quả đầu tư từ quỹ liên kết đơn vị.",
+      "ID": "ILP-VIDI-14",
+      "question": "Phát biểu nào sau đúng với sản phẩm bảo hiểm liên kết đơn vị?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Là sản phẩm thuộc nghiệp vụ BH liên kết đầu tư có quyền lợi bảo hiểm được tách bạch giữa quyền lợi bảo hiểm rủi ro và quyền lợi đầu tư. Bên mua bảo hiểm không được lựa chọn chỉ tham gia quyền lợi đầu tư mà không tham gia quyền lợi bảo hiểm rủi ro",
+      "2": "B. Là sản phẩm thuộc nghiệp vụ BH liên kết đầu tư có quyền lợi bảo hiểm được tách bạch giữa quyền lợi bảo hiểm rủi ro và quyền lợi đầu tư. Bên mua bảo hiểm được lựa chọn chỉ tham gia quyền lợi đầu tư mà không tham gia quyền lợi bảo hiểm rủi ro",
+      "3": "C. Là sản phẩm thuộc nghiệp vụ bảo hiểm hỗn hợp có quyền lợi bảo hiểm được tách bạch giữa quyền lợi bảo hiểm rủi ro và quyền lợi đầu tư. Bên mua bảo hiểm không được lựa chọn chỉ tham gia quyền lợi đâu tư mà không tham gia quyền lợi bảo hiểm rủi ro",
+      "4": "D. Là sản phẩm thuộc nghiệp vụ bảo hiểm hỗn hợp có quyền lợi bảo hiểm được tách bạch giữa quyền lợi bảo hiểm rủi ro và quyền lợi đầu tư. Bên mua bảo hiểm được lựa chọn chỉ tham gia quyền lợi đâu tư mà không tham gia quyền lợi bảo hiểm rủi ro",
+      "ID": "ILP-VIDI-15",
+      "question": "Phát biểu nào sau đây đúng khi nói về sản phẩm bảo hiểm liên kết đơn vị?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Là sản phẩm thuộc nghiệp vụ bảo hiểm liên kết đầu tư",
+      "2": "B. Là sản phẩm thuộc nghiệp vụ bảo hiểm hỗn hợp",
+      "3": "C. Là sản phẩm bảo hiểm có sự tách bạch giữa quyền lợi bảo hiểm rủi ro và quyền lợi đầu tư",
+      "4": "D. Là sản phẩm bảo hiểm có cơ cấu phí bảo hiểm được tách bạch giữa phí đem đi đầu tư và phí ban đầu",
+      "ID": "ILP-VIDI-16",
+      "question": "Phát biểu nào sau đây là sai khi nói về sản phẩm bảo hiểm liên kết đơn vị?",
+      "answer": "2"
+    },
+    {
+      "1": "A. 50 triệu đồng hoặc 5 lần của số phí BH đóng hàng năm, tùy số nào lớn hơn",
+      "2": "B. 100 triệu đồng hoặc 5 lần của số phí BH đóng phí một lần, tùy số nào lớn hơn.",
+      "3": "C. 50 triệu đồng hoặc 125% của số phí BH đóng phí một lần, tùy số nào lớn hơn",
+      "4": "D. 50 triệu đồng hoặc 150% của số phí BH đóng phí một lần, tùy số nào lớn hơn",
+      "ID": "ILP-VIDI-17",
+      "question": "Doanh nghiệp bảo hiểm và bên mua bảo hiểm thỏa thuận về quyền lợi bảo hiểm rủi ro trong hợp đồng bảo hiểm liên kết đơn vị đóng phí định kỳ nhưng phải đảm bảo quyền lợi tối thiểu trong trường hợp người được bảo hiểm tử vong bằng:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Sản phẩm bảo hiểm trọn đời & trả tiền định kỳ",
+      "2": "B. Sản phẩm bảo hiểm liên kết chung & liên kết đơn vị ",
+      "3": "C. Sản phẩm bảo hiểm tử kỳ & sinh kỳ",
+      "ID": "ILP-VIDI-18",
+      "question": "Sản phẩm nào sau đây thuộc nghiệp vụ bảo hiểm liên kết đầu tư?",
+      "answer": "2"
+    },
+    {
+      "1": "A. Bên mua bảo hiểm tham gia hợp đồng bảo hiểm liên kết đơn vị.",
+      "2": "B. Bên mua bảo hiểm có yêu cầu chuyển đổi quỹ liên kết đơn vị.",
+      "3": "C. Bên mua bảo hiểm thay đổi tỷ lệ đầu tư vào các quỹ đơn vị.",
+      "4": "D. Cả A, B, và C",
+      "ID": "ILP-VIDI-19",
+      "question": "Doanh nghiệp bảo hiểm cần cung cấp thông tin về mục tiêu đầu tư, chính sách đầu tư, hạn mức đầu tư và các rủi ro đầu tư của các quỹ liên kết đơn vị khi:",
+      "answer": "4"
+    },
+    {
+      "1": "A. Phù hợp với tính chất của sản phẩm bảo hiểm và phải đảm bảo có thành tố Sản phẩm liên kết đơn vị",
+      "2": "B. Phù hợp với tính chất của sản phẩm bảo hiểm và phải đảm bảo có thành tố Sản phẩm bảo hiểm liên kết đơn vị",
+      "3": "C.  Phù hợp với tính chất của sản phẩm bảo hiểm và phải đảm bảo có thành tố Liên kết đơn vị",
+      "4": "D.  Phù hợp với tính chất của sản phẩm bảo hiểm và phải đảm bảo có thành tố Bảo hiểm liên kết đơn vị",
+      "ID": "ILP-VIDI-20",
+      "question": "Chọn đáp án đúng về quy định Tên của sản phẩm bảo hiểm liên kết đơn vị?",
+      "answer": "2"
+    },
+    {
+      "1": "A. Tối thiểu 05 Quỹ liên kết đơn vị",
+      "2": "B. Tối thiểu 04 Quỹ liên kết đơn vị",
+      "3": "C. Tối thiểu 03 Quỹ liên kết đơn vị",
+      "4": "D. Tối thiểu 02 Quỹ liên kết đơn vị",
+      "ID": "ILP-VIDI-21",
+      "question": "Theo quy định về việc thành lập của quỹ liên kết đơn vị. Doanh nghiệp bảo hiểm phải thành lập tối thiểu bao nhiêu quỹ liên kết đơn vị dành cho mỗi sản phẩm bảo hiểm liên kết đơn vị?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Phải rõ ràng, chi tiết để Bên mua bảo hiểm có thể đánh giá một cách khách quan về thực trạng hoạt động của quỹ liên kết đơn vị cũng như tính chất các tài sản có trong quỹ liên kết đơn vị và những rủi ro mà quỹ liên kết đơn vị có thể gặp phải.",
+      "2": "B. Doanh nghiệp bảo hiểm phải đảm bảo rằng quỹ liên kết đơn vị được đầu tư phù hợp với các mục tiêu đã công bố và tuân thủ những hạn mức đầu tư theo quy định của pháp luật.",
+      "3": "C. Các mục tiêu, cách thức phân bổ các tài sản đầu tư của quỹ liên kết đơn vị phải được thông báo đầy đủ, rõ ràng trong tài liệu giới thiệu sản phẩm và hợp đồng bảo hiểm.",
+      "4": "D. Tất cả đều đúng",
+      "ID": "ILP-VIDI-22",
+      "question": "Lựa chọn answerkhi nói về mục tiêu và hạn mức đầu tư của quỹ liên kết đơn vị?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Doanh nghiệp bảo hiểm phải bảo đảm các tài sản hình thành từ các quỹ liên kết đơn vị phải được tách và quản lý riêng khỏi quỹ chủ sở hữu, các quỹ chủ hợp đồng khác và giữa các quỹ liên kết đơn vị của doanh nghiệp bảo hiểm.",
+      "2": "B. Trong mọi trường hợp, quỹ liên kết đơn vị phải được quản lý và sử dụng đầu tư phù hợp với mục tiêu, chính sách đầu tư và chế độ tài chính áp dụng đối với các doanh nghiệp bảo hiểm.",
+      "3": "C. A&B đều đúng",
+      "4": "D. A&B đều sai",
+      "ID": "ILP-VIDI-23",
+      "question": "Đáp án nào sau đây ĐÚNG khi nói về Quy định thành lập của quỹ liên kết đơn vị?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Không được đầu tư vào các quỹ đầu tư chứng khoán, cổ phiếu của các công ty đầu tư chứng khoán thành lập và hoạt động tại Việt Nam.",
+      "2": "B. Tài sản của quỹ liên kết đơn vị không được đầu tư trực tiếp vào bất động sản, vàng, bạc, kim loại quý, đá quý.",
+      "3": "C. A&B đều sai",
+      "4": "D. A&B đều đúng",
+      "ID": "ILP-VIDI-24",
+      "question": "Tài sản đầu tư của quỹ liên kết đơn vị không được đầu tư vào đâu?",
+      "answer": "4"
+    },
+    {
+      "1": "A. 1 tháng",
+      "2": "B. 2 tháng",
+      "3": "C. 3 tháng",
+      "4": "D. 4 tháng",
+      "ID": "ILP-VIDI-25",
+      "question": "Trong thời hạn bao nhiêu tháng kể từ ngày sai lệch phát sinh doanh nghiệp bảo hiểm phải yêu cầu công ty quản lý quỹ điều chỉnh lại danh mục đầu tư để đảm bảo các hạn mức đầu tư quy định tại mục này?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Bù đắp chi phí liên quan đến việc duy trì hoạt động bảo hiểm và cung cấp thông tin liên quan đến hợp đồng bảo hiểm cho bên mua bảo hiểm",
+      "2": "B. Để chi trả quyền lợi bảo hiểm rủi ro theo cam kết tại hợp đồng bảo hiểm.",
+      "3": "C. Để chi trả cho các hoạt động đầu tư, hoạt động định giá thị trường, hoạt động giám sát và quản lý quỹ.",
+      "4": "D. Bù đắp chi phí liên quan tới việc khai thác hợp đồng bảo hiểm, chi phí, vốn của doanh nghiệp.",
+      "ID": "ILP-VIDI-26",
+      "question": "Đối với sản phẩm bảo hiểm liên kết đơn vị, doanh nghiệp bảo hiểm tính phí quản lý quỹ nhằm:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Lãi suất đầu tư của quỹ liên kết đơn vị được đảm bảo không thấp hơn lãi suất cam kết tối thiểu theo quy định tại hợp đồng bảo hiểm",
+      "2": "B. Lãi suất đầu tư của quỹ liên kết đơn vị có thể cho kết quả âm và không được đảm bảo",
+      "3": "C. Khách hàng chịu mọi rủi ro đầu tư và được hưởng toàn bộ kết quả đầu tư",
+      "ID": "ILP-VIDI-27",
+      "question": "Phát biểu nào sau đây là không đúng về kết quả hoạt động của quỹ liên kết đơn vị",
+      "answer": "1"
+    },
+    {
+      "1": "A. Khoản phí dùng để trang trải chi phí phát hành hợp đồng BH, chi phí thẩm định BH, chi phí kiểm tra y tế, chi hoa hồng đại lý & chi phí khác",
+      "2": "B. Khoản phí đối với quyền lợi bảo hiểm rủi ro theo cam kết tại hợp đồng bảo hiểm",
+      "3": "C. Khoản phí để bù đắp chi phí liên quan đến việc duy trì hợp đồng bảo hiểm và cung cấp thông tin liên quan đến hợp đồng bảo hiểm cho bên mua bảo hiểm",
+      "4": "D. Khoản phí bên mua bảo hiểm phải trả cho doanh nghiệp bảo hiểm khi thực hiện chuyển đổi tài sản đầu tư giữa các quỹ liên kết đơn vị",
+      "ID": "ILP-VIDI-28",
+      "question": "Đối với sản phẩm liên kết đơn vị, phí chuyển đổi quỹ liên kết đơn vị là:",
+      "answer": "4"
+    },
+    {
+      "1": "A. Quỹ Năng động: 95 Đơn vị quỹ, Quỹ Cân bằng: 390 Đơn vị quỹ",
+      "2": "B. Quỹ năng động 100 Đơn vị quỹ, quỹ cân bằng 400 Đơn vị quỹ",
+      "3": "C. Quỹ năng động 98 Đơn vị quỹ, quỹ cân bằng 394 đơn vị quỹ",
+      "4": "D. A B C sai",
+      "ID": "ILP-VIDI-29",
+      "question": "Giả định giá mua bằng giá bán Đơn vị quỹ, khách hàng A tham gia sản phẩm bảo hiểm liên kết đơn vị và lựa chọn đầu tư vào 2 quỹ với thông tin sau: Tỷ lệ đầu tư: 40% vào quỹ Năng động và 60% vào quỹ Cân bằng. Biết rằng trước ngày định giá 5/8/2022, tài khoản khách hàng có 100 Đơn vị quỹ Năng động và 400 Đơn vị quỹ Cân bằng. Khách hàng hiện đang có khoản phí rủi ro và phí quản lý hợp đồng chờ phân bổ là 100.000đ/ tháng. \r\nTại ngày định giá 5/8/2022: giá Đơn vị quỹ Năng động là 20.000đ, giá Đơn vị quỹ Cân bằng là 10.000đ \r\nHỏi: Số lượng đơn vị của mỗi quỹ của khách hàng A sau ngày định giá 5/8/2022 còn bao nhiêu?",
+      "answer": "3"
+    },
+    {
+      "1": "A. 120 Đơn vị quỹ năng động và 460 Đơn vị quỹ cân bằng",
+      "2": "B. 140 Đơn vị quỹ năng động và 430 Đơn vị quỹ cân bằng",
+      "3": "C. 130 Đơn vị quỹ năng động và 440 Đơn vị quỹ cân bằng",
+      "4": "D. A, B, C sai",
+      "ID": "ILP-VIDI-30",
+      "question": "Giả định giá mua Đơn vị quỹ bằng giá bán Đơn vị quỹ, Khách hàng A tham gia sản phẩm bảo hiểm liên kết đơn vị và lựa chọn đầu tư vào 2 quỹ với thông tin như sau: Tỷ lệ đầu tư 40% vào quỹ Năng động, 60% vào quỹ Cân bằng (Áp dụng cho cả tài khoản cơ bản và tài khoản đóng thêm). Số lượng Đơn vị quỹ định giá trước ngày 5/8/2022 là 100 Đơn vị quỹ Năng động, 400 Đơn vị quỹ Cân bằng. Khách hàng hiện đang có khoản phí đóng thêm chờ phân bổ (đã trừ phí ban đầu) vào quỹ liên kết đơn vị là 1.000.000đ. Tại ngày định giá 5/8/2022, Quỹ Năng động giá 20.000đ/Đơn vị quỹ, Quỹ Cân bằng giá 10.000đ/Đơn vị quỹ. Hỏi số lượng mỗi quỹ của Khách hàng A sau ngày 5/8/2022 là bao nhiêu Đơn vị quỹ?",
+      "answer": "1"
+    },
+    {
+      "1": "A. 06 triệu đồng",
+      "2": "B. 02 triệu đồng",
+      "3": "C. 04 triệu đồng",
+      "4": "D. 3,2 triệu đồng",
+      "ID": "ILP-VIDI-31",
+      "question": "Giả định giá mua Đơn vị quỹ bằng giá bán Đơn vị quỹ, Khách hàng A tham gia sản phẩm bảo hiểm liên kết đơn vị và lựa chọn đầu tư vào 2 quỹ với thông tin như sau: Tỷ lệ đầu tư 40% vào Quỹ Năng động và 60% vào Quỹ Cân bằng. Số lượng Đơn vị quỹ định giá trước ngày 5/8/2022 là 100 Đơn vị quỹ Năng động, 400 Đơn vị quỹ Cân bằng. Tại ngày định giá 5/8/2022: Quỹ Năng động giá 20.000đ/ Đơn vị quỹ, Quỹ cân bằng giá10.000đ/ Đơn vị quỹ . Xác định Giá trị tài khoản của khách hàng sau ngày định giá nêu trên.",
+      "answer": "1"
+    },
+    {
+      "1": "A. Cơ cấu phí bảo hiểm và quyền lợi bảo hiểm được tách bạch giữa phần bảo hiểm rủi ro và phần đầu tư. Bên mua bảo hiểm được linh hoạt trong việc xác định phí bảo hiểm và số tiền bảo hiểm theo thoả thuận tại hợp đồng bảo hiểm",
+      "2": "B. Bên mua bảo hiểm được quyền lựa chọn đầu tư phí bảo hiểm của mình để mua các đơn vị của các quỹ liên kết đơn vị do doanh nghiệp bảo hiểm thành lập, được hưởng toàn bộ kết quả đầu tư và chịu mọi rủi ro đầu tư từ các quỹ liên kết đơn vị đã lựa chọn tương ứng với phần phí bảo hiểm đã đầu tư. Việc mua, bán các Đơn vị quỹ chỉ được thực hiện giữa doanh nghiệp bảo hiểm và bên mua bảo hiểm.",
+      "3": "C. Doanh nghiệp bảo hiểm được hưởng các khoản phí do bên mua bảo hiểm trả theo thoả thuận tại hợp đồng bảo hiểm",
+      "4": "D. Tất cả các đặc điểm trên",
+      "ID": "ILP-VIDI-32",
+      "question": "Bảo hiểm liên kết đơn vị là sản phẩm bảo hiểm nhân thọ thuộc nghiệp vụ bảo hiểm liên kết đầu tư và có những đặc điểm nào sau đây?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Quỹ liên kết đơn vị là quỹ được hình thành từ nguồn phí bảo hiểm của bên mua bảo hiểm đối với các hợp đồng bảo hiểm liên kết đơn vị và là một phần của quỹ chủ hợp đồng bảo hiểm",
+      "2": "B. Quỹ liên kết đơn vị là quỹ được hình thành từ nguồn phí bảo hiểm đầu tư thêm của bên mua bảo hiểm đối với các hợp đồng bảo hiểm liên kết đơn vị và là một phần của quỹ chủ hợp đồng bảo hiểm",
+      "3": "C. Quỹ liên kết đơn vị là quỹ được hình thành từ nguồn phí bảo hiểm rủi ro của bên mua bảo hiểm đối với các hợp đồng bảo hiểm liên kết đơn vị và là một phần của quỹ chủ hợp đồng bảo hiểm",
+      "4": "D. Quỹ liên kết đơn vị là quỹ được hình thành từ nguồn phí bảo hiểm của sản phẩm bổ trợ của bên mua bảo hiểm đối với các hợp đồng bảo hiểm liên kết đơn vị và là một phần của quỹ chủ hợp đồng bảo hiểm.",
+      "ID": "ILP-VIDI-33",
+      "question": "Đáp án nào sau đây là đúng khi nói về Quỹ liên kết đơn vị?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Đơn vị của quỹ liên kết đơn vị là tài sản của quỹ liên kết đơn vị được chia thành nhiều phần bằng nhau.",
+      "2": "B. Đơn vị của quỹ liên kết đơn vị là tài sản của quỹ liên kết đơn vị được chia thành nhiều phần không bằng nhau.",
+      "3": "C. Đơn vị của quỹ liên kết đơn vị là tài sản của Bên mua bảo hiểm được chia thành nhiều phần bằng nhau.",
+      "4": "D. Đơn vị của quỹ liên kết đơn vị là tài sản của Người được bảo hiểm được chia thành nhiều phần bằng nhau.",
+      "ID": "ILP-VIDI-34",
+      "question": "Định nghĩa nào sau đây là đúng khi nói về Đơn vị của quỹ liên kết đơn vị?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Giá bán là giá một đơn vị của quỹ liên kết đơn vị khi doanh nghiệp bảo hiểm bán cho bên mua bảo hiểm",
+      "2": "B. Giá mua là giá một đơn vị của quỹ liên kết đơn vị khi doanh nghiệp bảo hiểm mua của bên mua bảo hiểm.",
+      "3": "C. Ngày định giá là ngày doanh nghiệp bảo hiểm tiến hành xác định giá mua và giá bán các đơn vị của quỹ liên kết đơn vị",
+      "4": "D. Ngày định giá là ngày bên mua bảo hiểm tiến hành xác định giá mua và giá bán các đơn vị của quỹ liên kết đơn vị",
+      "ID": "ILP-VIDI-35",
+      "question": "Lựa chọn đáp án sai:",
+      "answer": "4"
+    },
+    {
+      "1": "A. 10 năm ",
+      "2": "B. 15 năm ",
+      "3": "C. 20 năm ",
+      "4": "D. 30 năm",
+      "ID": "ILP-VIDI-36",
+      "question": "Doanh nghiệp bảo hiểm không được minh họa quyền lợi đầu tư dài hơn bao nhiêu năm? ",
+      "answer": "3"
+    },
+    {
+      "1": "A. 15 năm",
+      "2": "B. 20 năm",
+      "3": "C. 10 năm",
+      "4": "D. 5 năm",
+      "ID": "ILP-VIDI-37",
+      "question": "Theo quy định của pháp luật thời hạn hợp đồng bảo hiểm liên kết đơn vị tối thiểu là bao nhiêu năm:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Phải bao gồm quyền lợi bảo hiểm rủi ro và quyền lợi đầu tư. ",
+      "2": "B. Tuỳ theo thỏa thuận giữa doanh nghiệp bảo hiểm và bên mua bảo hiểm, doanh nghiệp bảo hiểm có thể thiết kế thêm các quyền lợi bảo hiểm khác. ",
+      "3": "C. Bên mua bảo hiểm không được lựa chọn chỉ tham gia quyền lợi đầu tư mà không tham gia quyền lợi bảo hiểm rủi ro.",
+      "4": "D. A, B và C đều đúng.",
+      "ID": "ILP-VIDI-38",
+      "question": "Quy định nào sau đây là đúng về quyền lợi của bảo hiểm liên kết đơn vị?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Biên khả năng thanh toán của doanh nghiệp bảo hiểm lớn hơn biên khả năng thanh toán tối thiểu hai trăm (200) tỷ đồng Việt Nam. Vốn điều lệ đã góp cao hơn mức vốn pháp định từ hai trăm (200) tỷ đồng Việt Nam trở lên.",
+      "2": "B. Doanh nghiệp bảo hiểm có khả năng định giá tài sản và các đơn vị của các quỹ liên kết đơn vị khách quan, chính xác theo định kỳ tối thiểu một (01) tuần một (01) lần và công bố công khai cho bên mua bảo hiểm về giá mua và giá bán Đơn vị quỹ.",
+      "3": "C. Sản phẩm bảo hiểm liên kết đơn vị được Bộ Tài chính phê chuẩn. Hệ thống công nghệ thông tin phù hợp để quản lý và kiểm soát các quỹ liên kết đơn vị một cách thận trọng và hiệu quả. Đại lý bán sản phẩm bảo hiểm liên kết đơn vị được tuyển dụng và đào tạo đáp ứng các yêu cầu theo quy định",
+      "4": "D. Tất cả các đáp án trên",
+      "ID": "ILP-VIDI-39",
+      "question": "Để đủ khả năng bán sản phẩm bảo hiểm liên kết đơn vị, doanh nghiệp bảo hiểm phải đáp ứng được các điều kiện sau đây: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Quyền lợi bảo hiểm rủi ro",
+      "2": "B. Quyền lợi đầu tư",
+      "3": "C. Tuỳ theo thoả thuận giữa doanh nghiệp bảo hiểm và bên mua bảo hiểm, doanh nghiệp bảo hiểm có thể thiết kế thêm các quyền lợi bảo hiểm khác. Bên mua bảo hiểm không được lựa chọn chỉ tham gia quyền lợi đầu tư mà không tham gia quyền lợi bảo hiểm rủi ro.",
+      "4": "D. Cả 3 phương án trên",
+      "ID": "ILP-VIDI-40",
+      "question": "Quyền lợi bảo hiểm theo hợp đồng bảo hiểm liên kết đơn vị phải bao gồm những quyền lợi nào?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Đối với các hợp đồng bảo hiểm đóng phí một lần: 50.000.000 đồng Việt Nam hoặc 125% của số phí bảo hiểm đóng một lần, tuỳ thuộc vào số nào lớn hơn",
+      "2": "B. Đối với các hợp đồng bảo hiểm đóng phí định kỳ: 50.000.000 đồng Việt Nam hoặc năm (05) lần của số phí bảo hiểm đóng hàng năm, tuỳ thuộc vào số nào lớn hơn",
+      "3": "C. Doanh nghiệp bảo hiểm có thể cung cấp quyền lợi tử vong với số tiền bảo hiểm thấp hơn mức tối thiểu quy định như trên đối với người được bảo hiểm từ 60 tuổi trở lên, nhưng không thấp hơn 50.000.000 đồng",
+      "4": "D. A, B, C đúng",
+      "ID": "ILP-VIDI-41",
+      "question": "Quyền lợi tối thiểu trong trường hợp người được bảo hiểm tử vong khi khách hàng tham gia sản phẩm liên kết đơn vị được tính như thế nào?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Sai",
+      "2": "B. Đúng",
+      "3": "C. Tùy thuộc vào công ty quyết định",
+      "4": "D. Khách hàng được hưởng lãi suất cam kết.",
+      "ID": "ILP-VIDI-42",
+      "question": "“Bên mua bảo hiểm được quyền lựa chọn đầu tư phí bảo hiểm vào các quỹ liên kết đơn vị do doanh nghiệp bảo hiểm thành lập, được hưởng toàn bộ kết quả đầu tư và chịu mọi rủi ro đầu tư từ các quỹ liên kết đơn vị đã lựa chọn tương ứng với phần phí bảo hiểm đã đầu tư” Phát biểu trên đây là:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Phí ban đầu, Phí quản lý hợp đồng, Phí quản lý quỹ.",
+      "2": "B. Phí bảo hiểm rủi ro, Phí quản lý hợp đồng, Phí quản lý quỹ",
+      "3": "C. Phí ban đầu, Phí bảo hiểm rủi ro, Phí quản lý hợp đồng, Phí quản lý quỹ, Phí chuyển đổi quỹ liên kết đơn vị, Phí huỷ bỏ hợp đồng bảo hiểm, Các loại phí khác (nếu có) phải được Bộ Tài chính chấp thuận bằng văn bản.",
+      "4": "D. Phí quản lý quỹ, Các loại phí khác (nếu có) phải được Bộ Tài chính chấp thuận bằng văn bản.",
+      "ID": "ILP-VIDI-43",
+      "question": "Doanh nghiệp bảo hiểm được phép tính loại phí nào dưới đây khi khách hàng tham gia sản phẩm Bảo hiểm liên kết đơn vị?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Khoản phí đối với quyền lợi bảo hiểm rủi ro theo cam kết tại hợp đồng bảo hiểm. ",
+      "2": "B. Khoản phí dùng để trang trải chi phí phát hành hợp đồng bảo hiểm, chi phí thẩm định bảo hiểm, chi phí kiểm tra y tế, chi hoa hồng đại lý và chi phí khác. ",
+      "3": "C. Là khoản phí tính cho khách hàng khi hủy bỏ hợp đồng trước ngày đáo hạn để bù đắp các khoản chi hợp lý có liên quan. ",
+      "4": "D. Khoản phí để bù đắp chi phí liên quan đến việc duy trì hợp đồng bảo hiểm và cung cấp thông tin liên quan đến hợp đồng bảo hiểm cho bên mua bảo hiểm.",
+      "ID": "ILP-VIDI-44",
+      "question": "Đối với sản phẩm bảo hiểm liên kết đơn vị, phí hủy bỏ hợp đồng bảo hiểm là:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Bù đắp chi phí liên quan đến việc duy trì hoạt động bảo hiểm và cung cấp thông tin liên quan đến hợp đồng bảo hiểm cho bên mua bảo hiểm",
+      "2": "B. Để chi trả quyền lợi bảo hiểm rủi ro theo cam kết tại hợp đồng bảo hiểm.",
+      "3": "C. Để chi trả cho các hoạt động đầu tư, hoạt động định giá thị trường, hoạt động giám sát và quản lý quỹ.",
+      "4": "D. Bù đắp chi phí liên quan tới việc khai thác hợp đồng bảo hiểm, chi phí, vốn của doanh nghiệp.",
+      "ID": "ILP-VIDI-45",
+      "question": "Đối với sản phẩm bảo hiểm liên kết đơn vị, doanh nghiệp bảo hiểm tính phí quản lý quỹ nhằm:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Khoản phí dùng để trang trải chi phí phát hành hợp đồng bảo hiểm, chi phí thẩm định bảo hiểm, chi phí kiểm tra y tế, chi hoa hồng đại lý & chi phí khác",
+      "2": "B. Khoản phí đối với quyền lợi bảo hiểm rủi ro theo cam kết tại hợp đồng bảo hiểm",
+      "3": "C. Khoản phí để bù đắp chi phí liên quan đến việc duy trì hợp đồng bảo hiểm và cung cấp thông tin liên quan đến hợp đồng bảo hiểm cho bên mua bảo hiểm",
+      "4": "D. Khoản phí bên mua bảo hiểm phải trả cho doanh nghiệp bảo hiểm khi thực hiện chuyển đổi tài sản đầu tư giữa các quỹ liên kết đơn vị",
+      "ID": "ILP-VIDI-46",
+      "question": "Đối với sản phẩm bảo hiểm liên kết đơn vị, phí chuyển đổi quỹ liên kết đơn vị là:",
+      "answer": "4"
+    },
+    {
+      "1": "A. Lợi thế thông tin",
+      "2": "B. Danh mục đầu tư đa dạng",
+      "3": "C. Nhà nước quản lý chặt chẽ",
+      "4": "D. A, B, C đúng",
+      "ID": "ILP-VIDI-47",
+      "question": "Lợi thế đầu tư thông qua quỹ liên kết đơn vị là:",
+      "answer": "4"
+    },
+    {
+      "1": "A. Doanh nghiệp bảo hiểm phải tính toán chính xác, công bằng và hợp lý các khoản phí nêu trên, phù hợp với sản phẩm đã được Bộ Tài chính phê chuẩn và thông báo cho bên mua bảo hiểm khi giao kết hợp đồng.",
+      "2": "B. Doanh nghiệp BH có thể tự ý thay đổi các khoản phí thu của khách hàng để cân bằng tài chính, đáp ứng yêu cầu kinh doanh có lợi nhuận của doanh nghiệp.",
+      "3": "C. Hợp đồng bảo hiểm liên kết đơn vị phải quy định rõ các khoản phí tối đa áp dụng cho bên mua bảo hiểm. Doanh nghiệp bảo hiểm phải công khai rõ ràng, đầy đủ các loại phí, cách xác định và tỷ lệ các khoản phí tối đa áp dụng cho bên mua bảo hiểm trong các tài liệu giới thiệu sản phẩm và tài liệu minh họa bán hàng.",
+      "4": "D. Trong quá trình thực hiện hợp đồng và trong hạn mức tối đa đã được thoả thuận tại hợp đồng bảo hiểm, doanh nghiệp bảo hiểm có thể thay đổi tỷ lệ các loại phí áp dụng sau khi thông báo cho bên mua bảo hiểm và Bộ Tài chính bằng văn bản ít nhất ba (03) tháng trước thời điểm chính thức thay đổi.",
+      "ID": "ILP-VIDI-48",
+      "question": "Phát biểu nào sau đây là sai:",
+      "answer": "2"
+    },
+    {
+      "1": "A. 15 lần",
+      "2": "B. 10 lần",
+      "3": "C. 5 lần",
+      "4": "D. Pháp luật không quy định điều này.",
+      "ID": "ILP-VIDI-49",
+      "question": "Trong mỗi năm hợp đồng, tổng số phí bảo hiểm đóng thêm không được vượt quá bao nhiêu lần mức phí bảo hiểm năm đầu đối với hợp đồng đóng phí định kỳ hoặc không quá mức phí bảo hiểm lần đầu đối với hợp đồng đóng phí một lần?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Phí hủy bỏ hợp đồng.",
+      "2": "B. Phí quản lý hợp đồng",
+      "3": "C. Phí ban đầu",
+      "4": "D. Không trừ đi loại phí nào cả. Khách hàng có quyền hủy hợp đồng bất kỳ khi nào mà không tốn phí.",
+      "ID": "ILP-VIDI-50",
+      "question": "Giá trị hoàn lại của một hợp đồng bảo hiểm liên kết đơn vị được xác định dựa trên giá mua Đơn vị quỹ liên kết đơn vị vào ngày định giá kế tiếp ngay sau ngày huỷ bỏ hợp đồng bảo hiểm trừ đi loại phí nào sau đây?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Được xác định dựa trên giá mua Đơn vị quỹ liên kết đơn vị vào ngày định giá kế tiếp ngay sau ngày hủy bỏ hợp đồng bảo hiểm trừ đi phí hủy bỏ hợp đồng bảo hiểm. ",
+      "2": "B. Được xác định dựa trên giá mua Đơn vị quỹ liên kết đơn vị vào ngày định giá kế tiếp ngay sau ngày hủy bỏ hợp đồng bảo hiểm. ",
+      "3": "C. Được xác định dựa trên giá mua Đơn vị quỹ liên kết đơn vị vào ngày định giá ngay trước ngày hủy bỏ hợp đồng bảo hiểm trừ đi phí hủy bỏ hợp đồng bảo hiểm.",
+      "ID": "ILP-VIDI-51",
+      "question": "Giá trị hoàn lại của một hợp đồng bảo hiểm liên kết đơn vị được xác định:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Trên tài liệu minh họa, các tỷ suất đầu tư thực tế được tính trên cơ sở lãi ròng của quỹ liên kết đơn vị trong 5 năm trước hoặc thời gian tồn tại thực tế của quỹ liên kết đơn vị nếu thời gian hoạt động của quỹ chưa đủ 5 năm. ",
+      "2": "B. Trên tài liệu minh họa, các tỷ suất đầu tư thực tế được tính trên cơ sở lãi ròng của quỹ liên kết đơn vị trong 3 năm trước hoặc thời gian tồn tại thực tế của quỹ liên kết đơn vị nếu thời gian hoạt động của quỹ chưa đủ 3 năm. ",
+      "3": "C. Trên tài liệu minh họa, các tỷ suất đầu tư thực tế được tính trên cơ sở lãi ròng của quỹ liên kết đơn vị trong 10 năm trước hoặc thời gian tồn tại thực tế của quỹ liên kết đơn vị nếu thời gian hoạt động của quỹ chưa đủ 10 năm.",
+      "ID": "ILP-VIDI-52",
+      "question": "Phát biểu nào sau đây là đúng? ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Đóng quỹ liên kết đơn vị để chuyển đổi các tài sản sang một quỹ liên kết đơn vị mới có cùng các mục tiêu đầu tư; Thay đổi tên của quỹ liên kết đơn vị; Chia tách hoặc sáp nhập các Đơn vị quỹ liên kết đơn vị hiện có; Ngừng định giá Đơn vị quỹ liên kết đơn vị và các giao dịch liên quan đến hợp đồng bảo hiểm trong trường hợp sở giao dịch chứng khoán mà quỹ liên kết đơn vị đang đầu tư vào bị tạm thời đình chỉ giao dịch; Các biện pháp khác theo yêu cầu của cơ quan nhà nước có thẩm quyền và quy định của pháp luật. ",
+      "2": "B. Đóng quỹ liên kết đơn vị để chuyển đổi các tài sản sang một quỹ liên kết đơn vị mới có cùng các mục tiêu đầu tư; Thay đổi tên của quỹ liên kết đơn vị; Chia tách hoặc sáp nhập các Đơn vị quỹ liên kết đơn vị hiện có; Ngừng định giá Đơn vị quỹ liên kết đơn vị và các giao dịch liên quan đến hợp đồng bảo hiểm trong trường hợp sở giao dịch chứng khoán mà quỹ liên kết đơn vị đang đầu tư vào bị tạm thời đình chỉ giao dịch; ",
+      "3": "C. Đóng quỹ liên kết đơn vị để chuyển đổi các tài sản sang một quỹ liên kết đơn vị mới có cùng các mục tiêu đầu tư; Thay đổi tên của quỹ liên kết đơn vị; Chia tách hoặc sáp nhập các Đơn vị quỹ liên kết đơn vị hiện có; Các biện pháp khác theo yêu cầu của cơ quan nhà nước có thẩm quyền và quy định của pháp luật.",
+      "ID": "ILP-VIDI-53",
+      "question": "Các trường hợp doanh nghiệp bảo hiểm được phép áp dụng các biện pháp nào để bảo vệ và gia tăng quyền lợi của bên mua bảo hiểm? ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Các giao dịch được thực hiện dựa trên giá đơn vị của lần định giá ngay trước khi nhận được yêu cầu thực hiện giao dịch.",
+      "2": "B. Các giao dịch được thực hiện dựa trên giá đơn vị của lần định giá tiếp theo gần nhất sau khi nhận được yêu cầu thực hiện giao dịch.",
+      "3": "C. Các giao dịch được thực hiện dựa trên giá đơn vị của lần định giá tháng tiếp theo sau khi nhận được yêu cầu thực hiện giao dịch.",
+      "4": "D. Cả 3 câu trên đều sai.",
+      "ID": "ILP-VIDI-54",
+      "question": "Chọn câu đúng nhất:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Là hợp đồng bảo hiểm nhân thọ cho phép công ty bảo hiểm chủ động đầu tư mà không cần tham khảo bất cứ ý kiến nào của khách hàng, kể cả việc lựa chọn quỹ đầu tư.",
+      "2": "B. Là hợp đồng bảo hiểm nhân thọ cho phép cả công ty bảo hiểm và khách hàng cùng đầu tư thông qua các Quỹ đã chọn.",
+      "3": "C. Là hợp đồng bảo hiểm nhân thọ cho phép khách hàng tham gia đầu tư thông qua các Quỹ đã chọn.",
+      "4": "D. Cả 3 câu trên đều sai.",
+      "ID": "ILP-VIDI-55",
+      "question": "Hợp đồng bảo hiểm liên kết đơn vị:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Tổng giá trị tài sản của quỹ chia cho tổng số lượng Đơn vị quỹ.",
+      "2": "B. Giá trị tài sản thuần của quỹ nhân với tổng giá trị Đơn vị quỹ.",
+      "3": "C. Giá trị tài sản thuần của quỹ chia cho tổng số lượng Đơn vị quỹ.",
+      "4": "D. Giá trị tài sản thuần của quỹ trừ đi tổng giá trị các Đơn vị quỹ.",
+      "ID": "ILP-VIDI-56",
+      "question": "Giá Đơn vị quỹ bằng:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Đúng",
+      "2": "B. Sai",
+      "3": "C. Cả hai đáp án trên đều sai.",
+      "ID": "ILP-VIDI-57",
+      "question": "“Doanh nghiệp bảo hiểm phải được Bộ Tài chính chấp thuận bằng văn bản trước khi triển khai sản phẩm bảo hiểm liên kết đơn vị” Phát biểu trên đây là:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Thư chấp nhận của cha/ mẹ/ người giám hộ hợp pháp",
+      "2": "B. CMND của cha/ mẹ/ người giám hộ hợp pháp.",
+      "3": "C. Cam kết đóng phí bảo hiểm đúng thời hạn.",
+      "4": "D. A và B",
+      "ID": "ILP-VIDI-58",
+      "question": "Đối với người được bảo hiểm dưới 18 tuổi, nếu bên mua bảo hiểm không phải là cha/ mẹ/ người giám hộ hợp pháp, thì cần bổ sung thêm:",
+      "answer": "4"
+    },
+    {
+      "1": "A. Bảng phân tích nhu cầu tài chính",
+      "2": "B. Phiếu khảo sát mức độ chấp nhận rủi ro",
+      "3": "C. Phiếu đóng thêm phí bảo hiểm",
+      "4": "D. A và B",
+      "ID": "ILP-VIDI-59",
+      "question": "Những giấy tờ nào sau đây bắt buộc có trong hồ sơ yêu cầu bảo hiểm?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Phí đóng thêm để mua Đơn vị quỹ của quỹ liên kết đơn vị",
+      "2": "B. Phí rủi ro để giảm rủi ro của hợp đồng",
+      "3": "C. Phí cơ bản để tăng số tiền bảo hiểm",
+      "ID": "ILP-VIDI-60",
+      "question": "Ngoài phần phí bảo hiểm cơ bản định kỳ đã thoả thuận trước tại hợp đồng bảo hiểm, bên mua bảo hiểm có thể đóng thêm:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Sai, vì doanh nghiệp BH không cần phải quy định mức phí tối đa.",
+      "2": "B. Đúng",
+      "3": "C.Sai, vì doanh nghiệp BH không cần phải công khai thông tin các loại phí",
+      "4": "D. Tùy theo từng trường hợp và được quy định trong hợp đồng bảo hiểm của doanh nghiệp với khách hàng.",
+      "ID": "ILP-VIDI-61",
+      "question": "“Hợp đồng bảo hiểm liên kết đơn vị phải quy định rõ các khoản phí tối đa áp dụng cho bên mua bảo hiểm. Doanh nghiệp bảo hiểm phải công khai rõ ràng, đầy đủ các loại phí, cách xác định và tỷ lệ các khoản phí tối đa áp dụng cho bên mua bảo hiểm trong các tài liệu giới thiệu sản phẩm và tài liệu minh họa bán hàng”. Phát biểu trên đây là:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Giá của Đơn vị quỹ đầu tư thay đổi phụ thuộc vào giá trị tài sản thuần của mỗi Quỹ đầu tư.",
+      "2": "B. Giá của Đơn vị quỹ đầu tư có thể tăng hoặc giảm.",
+      "3": "C. Giá của Đơn vị quỹ đầu tư được tính sau khi khấu trừ phí quản lý quỹ.",
+      "4": "D. Tất cả các câu trên đều đúng.",
+      "ID": "ILP-VIDI-62",
+      "question": "Khi nói về Đơn vị quỹ, câu nào sau đây là đúng?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Doanh nghiệp BH có quyền thay đổi điều chỉnh các loại phí bất kể khi nào.",
+      "2": "B. Doanh nghiệp cần thông báo cho Bên mua bảo hiểm và Bộ Tài chính bằng văn bản ít nhất một (01) tháng trước thời điểm chính thức thay đổi.",
+      "3": "C. Doanh nghiệp cần thông báo cho Bên mua bảo hiểm và Bộ Tài chính bằng văn bản ít nhất hai (02) tháng trước thời điểm chính thức thay đổi.",
+      "4": "D. Doanh nghiệp cần thông báo cho Bên mua bảo hiểm và Bộ Tài chính bằng văn bản ít nhất ba (03) tháng trước thời điểm chính thức thay đổi.",
+      "ID": "ILP-VIDI-63",
+      "question": "Trong quá trình thực hiện hợp đồng và trong hạn mức tối đa đã được thoả thuận tại hợp đồng bảo hiểm, doanh nghiệp bảo hiểm có thể thay đổi tỷ lệ các loại phí áp dụng sau khi nào? ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Các thông tin về kết quả hoạt động của quỹ liên kết đơn vị trước đây (nếu có) chỉ mang tính tham khảo và các quỹ này sẽ sinh lời cho khách hàng trong tương lai.",
+      "2": "B. Các thông tin về kết quả hoạt động của quỹ liên kết đơn vị trước đây (nếu có) chỉ mang tính tham khảo và không có nghĩa là các quỹ này sẽ sinh lời cho khách hàng trong tương lai.",
+      "3": "C. Các thông tin về kết quả hoạt động của quỹ liên kết đơn vị trước đây (nếu có) là cơ sở và các quỹ này sẽ sinh lời cho khách hàng trong tương lai.",
+      "ID": "ILP-VIDI-64",
+      "question": "Trong tài liệu thông tin, quảng cáo về sản phẩm bảo hiểm liên kết đơn vị, nếu có thông tin về kết quả hoạt động của quỹ liên kết đơn vị trước đây, thì thông tin này phải được khuyến cáo:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Đúng",
+      "2": "B. Sai",
+      "ID": "ILP-VIDI-65",
+      "question": "“Doanh nghiệp bảo hiểm phải luôn duy trì khả năng thanh toán theo quy định của pháp luật”. Phát biểu trên:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Tối thiểu với các hợp đồng bảo hiểm liên kết đơn vị bằng 1.5% dự phòng nghiệp vụ cộng với 0.3% số tiền bảo hiểm chịu rủi ro",
+      "2": "B. Biên khả năng thanh toán của doanh nghiệp bảo hiểm phải cao hơn biên khả năng thanh toán tối thiểu hai trăm (200) tỷ đồng Việt Nam.",
+      "3": "C. Biên khả năng thanh toán chỉ cần cao hơn biên khả năng thanh toán tối thiểu.",
+      "4": "D. A và B đúng.",
+      "ID": "ILP-VIDI-66",
+      "question": "Biên khả năng thanh toán của doanh nghiệp bảo hiểm được quy định như thế nào theo Thông tư này?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Dự phòng toán học bao gồm dự phòng rủi ro bảo hiểm và dự phòng nghiệp vụ; Dự phòng bồi thường; Dự phòng bảo đảm khả năng thanh toán bổ sung và các Dự phòng khác sau khi được Bộ Tài chính phê chuẩn.",
+      "2": "B. Dự phòng toán học bao gồm dự phòng rủi ro bảo hiểm và dự phòng nghiệp vụ; Dự phòng bồi thường; Dự phòng bảo đảm khả năng thanh toán bổ sung.",
+      "3": "C. Dự phòng toán học bao gồm dự phòng rủi ro bảo hiểm và dự phòng nghiệp vụ; Dự phòng bồi thường; Dự phòng khác sau khi được Bộ Tài chính phê chuẩn.",
+      "4": "D. Dự phòng toán học bao gồm dự phòng rủi ro bảo hiểm; Dự phòng bồi thường; Dự phòng bảo đảm khả năng thanh toán bổ sung và các Dự phòng khác sau khi được Bộ Tài chính phê chuẩn.",
+      "ID": "ILP-VIDI-67",
+      "question": "Doanh nghiệp bảo hiểm phải trích lập dự phòng nghiệp vụ như thế nào?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Xác định phương pháp và cơ sở trích lập dự phòng nghiệp vụ phù hợp với các nguyên tắc và phương pháp tính toán theo thông lệ quốc tế.",
+      "2": "B. Xác định phương pháp và cơ sở trích lập dự phòng nghiệp vụ phù hợp với các nguyên tắc và phương pháp tính toán theo quy định của doanh nghiệp bảo hiểm.",
+      "3": "C. A, B đều đúng",
+      "ID": "ILP-VIDI-68",
+      "question": "Chuyên gia tính toán của doanh nghiệp bảo hiểm có trách nhiệm gì sau đây?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Doanh nghiệp không cần trích nộp",
+      "2": "B. Được trích theo phương pháp từng hồ sơ với mức trích lập được tính trên cơ sở thống kê số tiền bảo hiểm phải trả cho từng hồ sơ đã yêu cầu đòi bồi thường doanh nghiệp bảo hiểm nhưng đến cuối năm tài chính chưa được giải quyết.",
+      "3": "C. Được trích theo phương pháp tổng doanh thú phí bảo hiểm năm 2 với mức trích lập được tính trên cơ sở thống kê số tiền bảo hiểm phải trả cho từng hồ sơ đã yêu cầu đòi bồi thường doanh nghiệp bảo hiểm nhưng đến cuối năm tài chính chưa được giải quyết.",
+      "4": "D. Tất cả các đáp án đều sai.",
+      "ID": "ILP-VIDI-69",
+      "question": "Dự phòng bồi thường được trích nộp như thế nào?",
+      "answer": "2"
+    },
+    {
+      "1": "A. Không cần khoản dự phòng rủi ro.",
+      "2": "B. Dự phòng rủi ro bảo hiểm là số nhỏ hơn giữa mức dự phòng tính theo phương pháp phí chưa được hưởng hoặc dự phòng tính theo phương pháp dòng tiền để đáp ứng được tất cả các khoản chi phí trong tương lai trong suốt thời hạn của hợp đồng.",
+      "3": "C. Dự phòng rủi ro bảo hiểm là số lớn hơn giữa mức dự phòng tính theo phương pháp phí chưa được hưởng hoặc dự phòng tính theo phương pháp dòng tiền để đáp ứng được tất cả các khoản chi phí trong tương lai trong suốt thời hạn của hợp đồng.",
+      "4": "D. A hoặc B đúng",
+      "ID": "ILP-VIDI-70",
+      "question": "Dự phòng rủi ro bảo hiểm được tính toán như thế nào?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Tổng số các đơn vị đầu tư của bên mua bảo hiểm tại ngày định giá nhân với giá mua của Đơn vị quỹ tại ngày định giá",
+      "2": "B. Tổng số phí bảo hiểm đã nhận được từ bên mua bảo hiểm tại ngày định giá sau khi trừ đi các khoản phí tính cho bên mua bảo hiểm mà phần còn lại này dùng để mua các Đơn vị quỹ nhưng chưa được thực hiện",
+      "3": "C. A hoặc B",
+      "4": "D. Cả A và B",
+      "ID": "ILP-VIDI-71",
+      "question": "Dự phòng nghiệp vụ đối với phần liên kết đơn vị là tổng số các khoản sau đây?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Phụ lục II",
+      "2": "B. Phụ lục III",
+      "3": "C. Phụ lục IV",
+      "4": "D. Phụ lục V",
+      "ID": "ILP-VIDI-72",
+      "question": "Định kỳ hàng tháng, doanh nghiệp bảo hiểm tổng hợp tình hình kinh doanh sản phẩm liên kết đơn vị để báo cáo Bộ Tài chính theo mẫu quy định tại Phụ lục mấy ban hành theo Thông tư này?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Phụ lục II",
+      "2": "B. Phụ lục III",
+      "3": "C. Phụ lục IV",
+      "4": "D. Phụ lục V",
+      "ID": "ILP-VIDI-73",
+      "question": "Định kỳ hàng quý, doanh nghiệp bảo hiểm thực hiện báo cáo Bộ Tài chính số liệu trích lập dự phòng nghiệp vụ đối với sản phẩm liên kết đơn vị theo mẫu quy định tại Phụ lục mấy ban hành theo Thông tư này?",
+      "answer": "4"
+    },
+    {
+      "1": "A. 1 tháng/ 1 lần",
+      "2": "B. 2 tháng/ 1 lần",
+      "3": "C. 1 quý / 1 lần",
+      "4": "D. 1 năm/ 1 lần",
+      "ID": "ILP-VIDI-74",
+      "question": "Doanh nghiệp bảo hiểm phải “tổng hợp tình hình kinh doanh sản phẩm bảo hiểm liên kết đơn vị” để báo cáo Bộ Tài chính định kỳ bao lâu/ 1 lần?",
+      "answer": "1"
+    },
+    {
+      "1": "A. 1 năm / 1 lần",
+      "2": "B. 6 tháng/ 1 lần",
+      "3": "C. 1 quý / 1 lần",
+      "ID": "ILP-VIDI-75",
+      "question": "Doanh nghiệp bảo hiểm phải thực hiện báo cáo Bộ Tài chính số liệu trích lập dự phòng nghiệp vụ đối với sản phẩm bảo hiểm liên kết đơn vị định kỳ bao lâu 1 lần?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Kiến thức chung về thị trường tài chính/ Nội dung của sản phẩm bảo hiểm liên kết đơn vị/ Pháp luật kinh doanh bảo hiểm về sản phẩm liên kết đơn vị/ Kỹ năng bán sản phẩm bảo hiểm liên kết đơn vị/ Thực hành tư vấn và bán sản phẩm bảo hiểm liên kết đơn vị",
+      "2": "B. Kiến thức chung về thị trường tài chính/ Kiến thức cơ bản về đầu tư/ Nội dung của sản phẩm bảo hiểm liên kết đơn vị/ Pháp luật kinh doanh bảo hiểm về sản phẩm liên kết đơn vị/ Thực hành tư vấn và bán sản phẩm bảo hiểm liên kết đơn vị",
+      "3": "C. Kiến thức chung về thị trường tài chính/ Kiến thức cơ bản về đầu tư/ Nội dung của sản phẩm bảo hiểm liên kết đơn vị/ Kỹ năng bán sản phẩm bảo hiểm liên kết đơn vị/ Thực hành tư vấn và bán sản phẩm bảo hiểm liên kết đơn vị",
+      "4": "D. Kiến thức chung về thị trường tài chính/ Kiến thức cơ bản về đầu tư/ Nội dung của sản phẩm bảo hiểm liên kết đơn vị/ Pháp luật kinh doanh bảo hiểm về sản phẩm liên kết đơn vị/ Kỹ năng bán sản phẩm bảo hiểm liên kết đơn vị/ Thực hành tư vấn và bán sản phẩm bảo hiểm liên kết đơn vị",
+      "ID": "ILP-VIDI-76",
+      "question": "Ngoài nội dung kiến thức chung về đại lý bảo hiểm, chương trình đào tạo đại lý bảo hiểm liên kết đơn vị phải bao gồm những nội dung nào sau đây?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Kiến thức chung về thị trường tài chính",
+      "2": "B. Kiến thức cơ bản về đầu tư",
+      "3": "C. Nội dung của sản phẩm bảo hiểm liên kết đơn vị doanh nghiệp bảo hiểm được phép kinh doanh",
+      "4": "D. Cách mở 1 tài khoản để tham gia vào thị trường chứng khoán.",
+      "ID": "ILP-VIDI-77",
+      "question": "Ngoài những nội dung kiến thức chung về đại lý bảo hiểm, chương trình đào tạo đại lý bảo hiểm liên kết đơn vị KHÔNG bao gồm các nội dung nào sau đây?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Biên khả năng thanh toán của doanh nghiệp bảo hiểm lớn hơn biên khả năng thanh toán tối thiểu 200 tỷ đồng Việt Nam. Vốn điều lệ đóng góp cao hơn mức vốn pháp định từ 200 tỷ đồng Việt Nam trở lên.",
+      "2": "B. Biên khả năng thanh toán của doanh nghiệp bảo hiểm lớn hơn biên khả năng thanh toán tối thiểu 300 tỷ đồng Việt Nam. Vốn điều lệ đóng góp cao hơn mức vốn pháp định từ 300 tỷ đồng Việt Nam trở lên.",
+      "3": "C. Biên khả năng thanh toán của doanh nghiệp bảo hiểm lớn hơn biên khả năng thanh toán tối thiểu 400 tỷ đồng Việt Nam. Vốn điều lệ đóng góp cao hơn mức vốn pháp định từ 400 tỷ đồng Việt Nam trở lên.",
+      "4": "D. Biên khả năng thanh toán của doanh nghiệp bảo hiểm lớn hơn biên khả năng thanh toán tối thiểu 500 tỷ đồng Việt Nam. Vốn điều lệ đóng góp cao hơn mức vốn pháp định từ 500 tỷ đồng Việt Nam trở lên.",
+      "ID": "ILP-VIDI-78",
+      "question": "Một trong những điều kiện để doanh nghiệp bảo hiểm được triển khai bảo hiểm liên kết đơn vị là:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Cơ cấu phí bảo hiểm và quyền lợi bảo hiểm được tách bạch giữa phần bảo hiểm rủi ro và phần đầu tư. Bên mua bảo hiểm được linh hoạt trong việc xác định phí bảo hiểm và số tiền bảo hiểm theo thỏa thuận tại hợp đồng bảo hiểm.",
+      "2": "B. Bên mua bảo hiểm được quyền lựa chọn đầu tư phí bảo hiểm của mình để mua các đơn vị của các quỹ liên kết đơn vị do doanh nghiệp bảo hiểm thành lập, được hưởng toàn bộ kết quả đầu tư và chịu mọi rủi ro đầu tư từ các quỹ liên kết đơn vị đã lựa chọn tương ứng với phần phí bảo hiểm đã đầu tư. Việc mua, bán các Đơn vị quỹ chỉ được thực hiện giữa doanh nghiệp bảo hiểm và bên mua bảo hiểm.",
+      "3": "C. Doanh nghiệp bảo hiểm được hưởng các khoản phí do bên mua bảo hiểm trả theo thỏa thuận tại hợp đồng bảo hiểm.",
+      "4": "D. A, B và C đều đúng.",
+      "ID": "ILP-VIDI-79",
+      "question": "Phát biểu nào sau đây là đúng về việc triển khai sản phẩm bảo hiểm liên kết đơn vị:",
+      "answer": "4"
+    },
+    {
+      "1": "A. Đúng",
+      "2": "B. Sai",
+      "3": "C. Tùy theo từng khách hàng",
+      "ID": "ILP-VIDI-80",
+      "question": "“Đại lý bảo hiểm phải bảo đảm tất cả các khách hàng phải được giải thích rõ về quyền lợi của sản phẩm, nhận thức được các rủi ro đặc thù của sản phẩm đã lựa chọn trước khi ký vào hồ sơ yêu cầu bảo hiểm; có văn bản chứng minh khách hàng đã được tư vấn đầy đủ, hiểu biết về sản phẩm bảo hiểm đã lựa chọn và sản phẩm bảo hiểm này phù hợp với nhu cầu và khả năng tài chính của khách hàng” Phát biểu trên đây là đúng hay sai?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Nhu cầu của khách hàng",
+      "2": "B. Khả năng tài chính của khách hàng.",
+      "3": "C. Thực hiện khảo sát mức độ chấp nhận rủi ro của khách hàng từ đó đưa ra tư vấn sản phẩm phù hợp dành cho khách hàng.",
+      "4": "D. Cả A, B, C đều đúng",
+      "ID": "ILP-VIDI-81",
+      "question": "Trong quá trình tư vấn cho khách hàng, đại lý bảo hiểm phải thực hiện phân tích thông tin khách hàng bao gồm những phân tích nào sau đây?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Báo cáo này là một phần trong hồ sơ yêu cầu bảo hiểm",
+      "2": "B. Báo cáo này là một phần trong hồ sơ đại lý",
+      "3": "C. Báo cáo này là một phần trong hồ sơ doanh nghiệp bảo hiểm.",
+      "ID": "ILP-VIDI-82",
+      "question": "Đại lý bảo hiểm phải báo cáo doanh nghiệp bảo hiểm kết quả tư vấn khách hàng, bao gồm thông tin cơ bản của khách hàng và khả năng tài chính để tham gia bảo hiểm; đồng thời tường thuật quá trình tư vấn bảo hiểm. Báo cáo này là một phần trong tài liệu nào sau đây?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Bộ Tài Chính (Cục Quản lý, giám sát bảo hiểm)",
+      "2": "B. Bộ Tài Chính",
+      "3": "C. Cục quản lý, giám sát bảo hiểm và Bộ Tài Chính.",
+      "ID": "ILP-VIDI-83",
+      "question": "doanh nghiệp bảo hiểm, đại lý bảo hiểm, tổ chức và cá nhân có liên quan chịu sự giám sát của cơ quan nào trong quá trình kinh doanh sản phẩm bảo hiểm liên kết đơn vị theo quy định của pháp luật:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Cục quản lý, giám sát bảo hiểm",
+      "2": "B. Bộ Tài Chính",
+      "3": "C. Cục quản lý, giám sát bảo hiểm và Bộ Tài Chính.",
+      "ID": "ILP-VIDI-84",
+      "question": "Cơ quan nào chịu trách nhiệm định kỳ hàng quý đánh giá việc triển khai sản phẩm bảo hiểm liên kết đơn vị và phối hợp với các đơn vị có liên quan báo cáo Bộ trưởng Bộ Tài chính?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Báo cáo ngay cho Bộ Tài chính (Cục Quản lý, giám sát bảo hiểm) và thông báo cho công ty quản lý quỹ trong thời hạn mười hai (12) giờ, kể từ khi phát hiện sự việc đồng thời yêu cầu thực hiện sửa lỗi hoặc thực hiện các hoạt động khắc phục hậu quả của các hành vi vi phạm này trong thời hạn quy định.",
+      "2": "B. Báo cáo ngay cho Bộ Tài chính (Cục Quản lý, giám sát bảo hiểm) và thông báo cho công ty quản lý quỹ trong thời hạn hai mươi tư (24) giờ, kể từ khi phát hiện sự việc đồng thời yêu cầu thực hiện sửa lỗi hoặc thực hiện các hoạt động khắc phục hậu quả của các hành vi vi phạm này trong thời hạn quy định.",
+      "3": "C. Báo cáo ngay cho Bộ Tài chính (Cục Quản lý, giám sát bảo hiểm) và thông báo cho công ty quản lý quỹ trong thời hạn ba mươi sáu (36) giờ, kể từ khi phát hiện sự việc đồng thời yêu cầu thực hiện sửa lỗi hoặc thực hiện các hoạt động khắc phục hậu quả của các hành vi vi phạm này trong thời hạn quy định.",
+      "4": "D. Báo cáo ngay cho Bộ Tài chính (Cục Quản lý, giám sát bảo hiểm) và thông báo cho công ty quản lý quỹ trong thời hạn bốn mươi tám (48) giờ, kể từ khi phát hiện sự việc đồng thời yêu cầu thực hiện sửa lỗi hoặc thực hiện các hoạt động khắc phục hậu quả của các hành vi vi phạm này trong thời hạn quy định.",
+      "ID": "ILP-VIDI-85",
+      "question": "Trong trường hợp phát hiện vi phạm các quy định pháp luật và hợp đồng uỷ thác đầu tư, ngân hàng giám sát phải làm gì?",
+      "answer": "2"
+    },
+    {
+      "1": "A. Đúng",
+      "2": "B. Sai",
+      "ID": "ILP-VIDI-86",
+      "question": "“Các tài sản của quỹ liên kết đơn vị để ở ngân hàng giám sát đăng ký sở hữu dưới tên của doanh nghiệp bảo hiểm là tài sản thuộc sở hữu của quỹ liên kết đơn vị, không phải của ngân hàng giám sát hoặc công ty quản lý quỹ. Ngân hàng giám sát ĐƯỢC sử dụng tài sản của quỹ liên kết đơn vị để thanh toán, bảo lãnh thanh toán cho các khoản nợ của mình hoặc cho bên thứ ba.” Phát biểu này:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Năm (05) năm",
+      "2": "B. Mười (10) năm",
+      "3": "C. Mười lăm (15) năm",
+      "4": "D. Hai mươi (20) năm",
+      "ID": "ILP-VIDI-87",
+      "question": "Theo quy định tại Thông tư này, Ngân hàng giám sát có trách nhiệm lập và lưu trữ các hồ sơ, chứng từ dưới dạng văn bản và tệp dữ liệu điện tử trong bao lâu:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Đúng",
+      "2": "B. Sai",
+      "ID": "ILP-VIDI-88",
+      "question": "“Thông tin trong tài liệu giới thiệu sản phẩm phải chính xác, khách quan, đầy đủ, trung thực và phải phù hợp với sản phẩm bảo hiểm liên kết đơn vị đã được Bộ Tài chính phê chuẩn.” Phát biểu trên:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Doanh nghiệp bảo hiểm phải nêu rõ thông tin trên là kết quả hoạt động trong quá khứ chỉ dùng để tham khảo.",
+      "2": "B. Doanh nghiệp bảo hiểm phải nêu rõ thông tin trên không phải là cơ sở để đảm bảo chắc chắn về kết quả hoạt động của các quỹ liên kết đơn vị trong tương lai.",
+      "3": "C. Doanh nghiệp bảo hiểm phải nêu rõ thông tin trên là kết quả hoạt động trong quá khứ dùng để tham khảo và không phải là cơ sở để đảm bảo chắc chắn về kết quả hoạt động của các quỹ liên kết đơn vị trong tương lai.",
+      "ID": "ILP-VIDI-89",
+      "question": "“Kết quả hoạt động của các quỹ liên kết đơn vị hiện có trong năm (05) năm tài chính gần nhất, hoặc toàn bộ thời gian mà quỹ đã được thành lập và hoạt động nếu ngắn hơn năm (05) năm.” Với thông tin này, doanh nghiệp bảo hiểm phải thể hiện như thế nào trong Tài liệu giới thiệu sản phẩm bảo hiểm liên kết đơn vị:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Trước khi giao kết hợp đồng bảo hiểm và phải có thông tin tối thiểu theo Phụ lục II TT135/2012/TT-BTC",
+      "2": "B. Trong khi giao kết hợp đồng bảo hiểm và phải có thông tin tối thiểu theo Phụ lục II TT135/2012/TT-BTC",
+      "3": "C. Sau khi giao kết hợp đồng bảo hiểm và phải có thông tin tối thiểu theo Phụ lục II TT135/2012/TT-BTC",
+      "4": "D. Không quy định",
+      "ID": "ILP-VIDI-90",
+      "question": "Tài liệu minh họa bán hàng của sản phẩm bảo hiểm liên kết đơn vị phải được cung cấp cho khách hàng khi nào?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Quý",
+      "2": "B. Nửa năm",
+      "3": "C. Năm",
+      "ID": "ILP-VIDI-91",
+      "question": "Tỷ suất đầu tư thực tế của mỗi quỹ liên kết đơn vị có sự khác nhau cho từng quỹ liên kết đơn vị và được tính toán theo:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Trong ba (03) năm trước hoặc thời gian tồn tại thực tế của quỹ liên kết đơn vị nếu thời gian hoạt động của quỹ chưa đủ ba (03) năm.",
+      "2": "B. Trong bốn (04) năm trước hoặc thời gian tồn tại thực tế của quỹ liên kết đơn vị nếu thời gian hoạt động của quỹ chưa đủ bốn (04) năm.",
+      "3": "C. Trong năm (05) năm trước hoặc thời gian tồn tại thực tế của quỹ liên kết đơn vị nếu thời gian hoạt động của quỹ chưa đủ năm (05) năm.",
+      "4": "D. Trong mười (10) năm trước hoặc thời gian tồn tại thực tế của quỹ liên kết đơn vị nếu thời gian hoạt động của quỹ chưa đủ mười (10) năm.",
+      "ID": "ILP-VIDI-92",
+      "question": "Tỷ suất đầu tư thực tế của mỗi quỹ liên kết đơn vị được tính trên cơ sở lãi ròng của quỹ liên kết đơn vị trong bao nhiêu năm?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Đúng",
+      "2": "B. Sai",
+      "ID": "ILP-VIDI-93",
+      "question": "“Doanh nghiệp bảo hiểm phải giải thích rõ cho bên mua bảo hiểm biết việc liệt kê các tỷ suất đầu tư không tính đến chênh lệch giữa giá mua và giá bán hoặc các khoản phí khác có thể sẽ được tính thêm cho bên mua bảo hiểm.” Phát biểu trên:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Tách bạch giữa phí bảo hiểm cho các quyền lợi bảo hiểm rủi ro và các khoản phí khác",
+      "2": "B. Tách bạch giữa phí bảo hiểm rủi ro của sản phẩm chính và phí bảo hiểm rủi ro của các sản phẩm bổ trợ",
+      "3": "C. Tách bạch phần phí bảo vệ và đầu tư",
+      "ID": "ILP-VIDI-94",
+      "question": "Trong Tài liệu minh họa bán hàng, doanh nghiệp bảo hiểm phải thể hiện rõ các khoản phí và các hạn mức tối đa mà bên mua bảo hiểm phải trả, trên cơ sở:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Quy tắc, điều khoản sản phẩm/ Tài liệu giới thiệu sản phẩm/ Tài liệu minh họa bán hàng về các trường hợp điển hình/ Tình hình hoạt động của quỹ liên kết đơn vị/ Giá Đơn vị quỹ liên kết đơn vị",
+      "2": "B. Quy tắc, điều khoản sản phẩm được Bộ Tài chính phê chuẩn/ Tài liệu giới thiệu sản phẩm/ Tình hình hoạt động của quỹ liên kết đơn vị/ Giá Đơn vị quỹ liên kết đơn vị",
+      "3": "C. Quy tắc, điều khoản sản phẩm được Bộ Tài chính phê chuẩn/ Tài liệu giới thiệu sản phẩm/ Tài liệu minh họa bán hàng về các trường hợp điển hình/ Tình hình hoạt động của quỹ liên kết đơn vị",
+      "4": "D. Quy tắc, điều khoản sản phẩm được Bộ Tài chính phê chuẩn/ Tài liệu giới thiệu sản phẩm/ Tài liệu minh họa bán hàng về các trường hợp điển hình/ Tình hình hoạt động của quỹ liên kết đơn vị/ Giá Đơn vị quỹ liên kết đơn vị",
+      "ID": "ILP-VIDI-95",
+      "question": "Những tài liệu mà doanh nghiệp bảo hiểm có trách nhiệm công bố trên website của doanh nghiệp mình bao gồm:",
+      "answer": "4"
+    },
+    {
+      "1": "A. Sáu mươi (60) ngày",
+      "2": "B. Chín mươi (90) ngày",
+      "3": "C. Một trăm hai mươi (120) ngày",
+      "4": "D. Một trăm ba mươi (130) ngày",
+      "ID": "ILP-VIDI-96",
+      "question": "Theo quy định, trong bao lâu kể từ ngày kết thúc năm tài chính hoặc năm hợp đồng, doanh nghiệp bảo hiểm phải thông báo bằng văn bản cho bên mua bảo hiểm về tình trạng hợp đồng và kết quả hoạt động của mỗi quỹ liên kết đơn vị?",
+      "answer": "2"
+    },
+    {
+      "1": "A. Định kỳ hàng tuần",
+      "2": "B. Định kỳ hai tuần",
+      "3": "C. Định kỳ hàng tháng",
+      "4": "D. Không quy định",
+      "ID": "ILP-VIDI-97",
+      "question": "Doanh nghiệp bảo hiểm phải định kỳ công bố trên ít nhất một tờ báo trung ương và website của doanh nghiệp về giá bán/ giá mua đơn vị của quỹ liên kết đơn vị; Giá trị tài sản ròng trên mỗi đơn vị của quỹ liên kết đơn vị:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Giá bán đơn vị của quỹ liên kết đơn vị; Giá trị tài sản ròng trên mỗi đơn vị của quỹ liên kết đơn vị",
+      "2": "B. Giá mua đơn vị của quỹ liên kết đơn vị; Giá trị tài sản ròng trên mỗi đơn vị của quỹ liên kết đơn vị",
+      "3": "C. Giá bán/ giá mua đơn vị của quỹ liên kết đơn vị; Giá trị tài sản ròng trên mỗi đơn vị của quỹ liên kết đơn vị",
+      "ID": "ILP-VIDI-98",
+      "question": "Doanh nghiệp bảo hiểm phải định kỳ hàng tuần công bố trên ít nhất một tờ báo trung ương và website của doanh nghiệp những nội dung nào sau đây:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Vào trước ngày định giá",
+      "2": "B. Vào ngay ngày định giá",
+      "3": "C. Vào ngày làm việc ngay sau ngày định giá",
+      "ID": "ILP-VIDI-99",
+      "question": "“Việc doanh nghiệp bảo hiểm phải định kỳ hàng tuần công bố trên ít nhất một tờ báo trung ương và website của doanh nghiệp về giá bán/ giá mua đơn vị của quỹ liên kết đơn vị; Giá trị tài sản ròng trên mỗi đơn vị của quỹ liên kết đơn vị” phải được thực hiện vào ngày nào?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Một (01) năm trước đó",
+      "2": "B. Hai (02) năm trước đó",
+      "3": "C. Ba (03) năm trước đó",
+      "ID": "ILP-VIDI-100",
+      "question": "Doanh nghiệp bảo hiểm phải đảm bảo khách hàng tra cứu được trên website của doanh nghiệp bảo hiểm về giá trị Đơn vị quỹ của các tuần liền kề của:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Đúng",
+      "2": "B. Sai",
+      "ID": "ILP-VIDI-101",
+      "question": "“Doanh nghiệp bảo hiểm được thông tin, quảng cáo về sản phẩm bảo hiểm liên kết đơn vị theo quy định của pháp luật và chịu trách nhiệm về những thông tin đã cung cấp.” Phát biểu này:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Không được",
+      "2": "B. Được quảng cáo.",
+      "3": "C. Không quy định",
+      "ID": "ILP-VIDI-102",
+      "question": "Doanh nghiệp bảo hiểm, tổ chức, cá nhân có liên quan có được quảng cáo, thông tin về sản phẩm bảo hiểm liên kết đơn vị khi sản phẩm chưa được Bộ Tài chính phê chuẩn không?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Đúng",
+      "2": "B. Sai",
+      "ID": "ILP-VIDI-103",
+      "question": "“doanh nghiệp bảo hiểm, đại lý bảo hiểm được so sánh với ý đồ quảng cáo, bảo đảm chắc chắn kết quả đầu tư của một quỹ liên kết đơn vị này là tốt hơn so với quỹ liên kết đơn vị khác hoặc của doanh nghiệp bảo hiểm khác.” Phát biểu này:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Kết quả bình chọn, xếp hạng không quá một năm (12 tháng) kể từ ngày sản phẩm bảo hiểm liên kết đơn vị được bình chọn, xếp hạng hoặc nhận giải thưởng",
+      "2": "B. Kết quả bình chọn, xếp hạng không quá nửa năm (sáu tháng) kể từ ngày sản phẩm bảo hiểm liên kết đơn vị được bình chọn, xếp hạng hoặc nhận giải thưởng",
+      "3": "C. Kết quả bình chọn, xếp hạng không quá hai năm (24 tháng) kể từ ngày sản phẩm bảo hiểm liên kết đơn vị được bình chọn, xếp hạng hoặc nhận giải thưởng",
+      "ID": "ILP-VIDI-104",
+      "question": "Khi sử dụng các kết quả bình chọn, xếp hạng kết quả hoạt động để quảng cảo, giới thiệu sản phẩm bảo hiểm liên kết đơn vị, doanh nghiệp bảo hiểm, các tổ chức, cá nhân có liên quan phải đảm bảo:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Trường hợp quỹ bị định giá thấp; Nếu phí bảo hiểm được phân bổ để mua Đơn vị quỹ trước thời gian quỹ bị định giá sai và đã bán Đơn vị quỹ trong thời gian quỹ bị định giá sai: Mức đền bù cho bên mua bảo hiểm được xác định dựa trên mức độ sai sót và số lượng Đơn vị quỹ mà bên mua bảo hiểm đã bán",
+      "2": "B. Trường hợp quỹ bị định giá thấp; Nếu phí bảo hiểm được phân bổ để mua Đơn vị quỹ trong thời gian quỹ bị định giá sai và tiếp tục nắm giữ sau thời gian quỹ bị định giá sai: Doanh nghiệp bảo hiểm chịu trách nhiệm đền bù cho quỹ liên kết đơn vị, mức đền bù được xác định dựa trên mức độ sai sót và số lượng Đơn vị quỹ mà bên mua bảo hiểm đã mua và còn tiếp tục nắm giữ sau thời gian bị định giá sai.",
+      "3": "C. Doanh nghiệp không phải đền bù",
+      "4": "D. A, B đều đúng",
+      "ID": "ILP-VIDI-105",
+      "question": "Về việc đền bù thiệt hại cho bên mua bảo hiểm và quỹ liên kết đơn vị từ việc mua bán Đơn vị quỹ trong trường hợp có sai sót, doanh nghiệp phải xử lý như thế nào?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Nếu phí bảo hiểm được phân bổ để mua Đơn vị quỹ trước thời gian quỹ bị định giá sai và đã bán Đơn vị quỹ trong thời gian quỹ bị định giá sai: Doanh nghiệp bảo hiểm chịu trách nhiệm đền bù cho quỹ liên kết đơn vị, mức đền bù được xác định dựa trên mức độ sai sót và số lượng Đơn vị quỹ bên mua bảo hiểm đã bán trong thời gian bị định giá sai",
+      "2": "B. Nếu phí bảo hiểm được phân bổ để mua Đơn vị quỹ trong thời gian quỹ bị định giá sai và tiếp tục nắm giữ sau thời gian quỹ bị định giá sai: Mức đền bù cho bên mua bảo hiểm được xác định dựa trên mức độ sai sót và số lượng Đơn vị quỹ bên mua bảo hiểm đã mua và còn tiếp tục nắm giữ sau thời gian bị định giá sai.",
+      "3": "C. Doanh nghiệp không cần khắc phục, vì định giá cao đang mang lại quyền lợi tốt hơn cho khách hàng.",
+      "ID": "ILP-VIDI-106",
+      "question": "Nếu doanh nghiệp bảo hiểm định giá sai trong trường hợp Quỹ bị định giá cao hơn, thì phát biểu nào sau đây là sai:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Doanh nghiệp bảo hiểm chịu. Và mọi chi phí đền bù cho bên mua bảo hiểm và quỹ liên kết đơn vị không được hạch toán vào chi phí của quỹ liên kết đơn vị của doanh nghiệp bảo hiểm.",
+      "2": "B. Do doanh nghiệp bảo hiểm chịu 50%, khách hàng chịu 50%",
+      "3": "C. Ngân hàng giám sát (được thành lập và hoạt động hợp pháp tại Việt Nam)",
+      "4": "D. Do người thụ hưởng chi trả.",
+      "ID": "ILP-VIDI-107",
+      "question": "Khi doanh nghiệp bị định giá sai Quỹ liên kết đơn vị, thì chi phí khắc phục, đền bù thiệt hại sẽ do ai chịu?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Chứng khoán",
+      "2": "B. Bất động sản, vàng, bạc, kim loại quý, đá quý",
+      "3": "C. Trái phiếu chính phủ",
+      "ID": "ILP-VIDI-108",
+      "question": "Danh mục đầu tư của quỹ liên kết đơn vị phải phù hợp với mục tiêu và chính sách đầu tư quy định tại quy tắc, điều khoản và cơ sở kỹ thuật của sản phẩm đã được Bộ Tài chính phê chuẩn. Theo đó, danh mục đầu tư của quỹ liên kết đơn vị không bao gồm các ngành nghề nào sau đây?",
+      "answer": "2"
+    },
+    {
+      "1": "A. Không tuân thủ mục tiêu và chính sách đầu tư đã được quy định tại quy tắc, điều khoản và cơ sở kỹ thuật của sản phẩm đã được Bộ Tài chính phê chuẩn",
+      "2": "B. Đầu tư vào các tài sản bị hạn chế hoặc đầu tư vượt các hạn mức đầu tư theo quy định của pháp luật",
+      "3": "C. A, B đều đúng.",
+      "4": "D. A hoặc B đúng.",
+      "ID": "ILP-VIDI-109",
+      "question": "Doanh nghiệp bảo hiểm có trách nhiệm đền bù các thiệt hại gây ra cho bên mua bảo hiểm và quỹ liên kết đơn vị trong trường hợp:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Mỗi quỹ liên kết đơn vị không được đầu tư vào quá 10% tổng giá trị chứng khoán đang lưu hành của một tổ chức phát hành, trừ trái phiếu Chính phủ",
+      "2": "B. Mỗi quỹ liên kết đơn vị không được đầu tư vượt quá 20% tổng giá trị tài sản của quỹ vào chứng khoán đang lưu hành của một tổ chức phát hành, trừ trái phiếu Chính phủ;",
+      "3": "C. Mỗi quỹ liên kết đơn vị không được đầu tư quá 30% tổng giá trị tài sản của quỹ vào các công ty trong cùng một tập đoàn hay một nhóm công ty có quan hệ sở hữu lẫn nhau",
+      "4": "D. Mỗi quỹ liên kết đơn vị không được đầu tư quá 40% tổng giá trị tài sản của quỹ vào các công ty trong cùng một tập đoàn hay một nhóm công ty có quan hệ sở hữu lẫn nhau",
+      "ID": "ILP-VIDI-110",
+      "question": "Đáp án nào sau đây là sai khi nói về cơ cấu danh mục đầu tư của quỹ liên kết đơn vị phải bảo đảm tuân thủ",
+      "answer": "4"
+    },
+    {
+      "1": "A. 15 ngày",
+      "2": "B. 16 ngày",
+      "3": "C. 17 ngày",
+      "4": "D. 18 ngày",
+      "ID": "ILP-VIDI-111",
+      "question": "Trường hợp có sai lệch là do doanh nghiệp bảo hiểm hoặc công ty quản lý quỹ không tuân thủ các hạn mức đầu tư theo quy định của pháp luật ,doanh nghiệp bảo hiểm phải yêu cầu công ty quản lý quỹ điều chỉnh lại danh mục đầu tư trong thời hạn bao nhiêu ngày, kể từ ngày sai lệch phát sinh.",
+      "answer": "1"
+    },
+    {
+      "1": "A. 3%",
+      "2": "B. 5%",
+      "3": "C. 7%",
+      "4": "D. 9%",
+      "ID": "ILP-VIDI-112",
+      "question": "Chênh lệch giữa giá bán và giá mua đơn vị của một quỹ liên kết đơn vị không được vượt quá bao nhiêu %  của giá bán.",
+      "answer": "2"
+    },
+    {
+      "1": "A. Ngày định giá kế tiếp",
+      "2": "B. Ngày định giá ngay tại thời điểm phát sinh giao dịch",
+      "3": "C. Ngày định giá trước khi giao dịch phát sinh 1 tuần.",
+      "ID": "ILP-VIDI-113",
+      "question": "Giá bán và giá mua các đơn vị của quỹ liên kết đơn vị được xác định dựa trên giá trị tài sản ròng của mỗi đơn vị của quỹ liên kết đơn vị vào ngày nào, sau khi doanh nghiệp bảo hiểm nhận được yêu cầu mua hoặc bán đơn vị của quỹ liên kết đơn vị.",
+      "answer": "1"
+    },
+    {
+      "1": "A. Có đơn yêu cầu mua thêm Đơn vị quỹ theo mẫu của doanh nghiệp bảo hiểm, nêu rõ số tiền muốn mua thêm và ký tên trên đơn yêu cầu mua thêm Đơn vị quỹ liên kết đơn vị.",
+      "2": "B. Có đơn yêu cầu mua thêm Đơn vị quỹ theo mẫu của doanh nghiệp bảo hiểm, nêu rõ lỉ lệ % vào mỗi quỹ và ký tên trên đơn yêu cầu mua thêm Đơn vị quỹ liên kết đơn vị.",
+      "3": "C. Có đơn yêu cầu mua thêm Đơn vị quỹ theo mẫu của doanh nghiệp bảo hiểm, nêu rõ số tiền muốn mua thêm, tỉ lệ % vào mỗi quỹ và ký tên trên đơn yêu cầu mua thêm Đơn vị quỹ liên kết đơn vị.",
+      "4": "D. Có đơn yêu cầu mua thêm Đơn vị quỹ theo mẫu của doanh nghiệp bảo hiểm, nêu rõ số tiền muốn mua thêm, tỉ lệ % vào mỗi quỹ.",
+      "ID": "ILP-VIDI-114",
+      "question": "Bên mua bảo hiểm có thể yêu cầu mua thêm Đơn vị quỹ liên kết đơn vị bằng cách nào?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Hợp đồng bảo hiểm còn hiệu lực, số Đơn vị quỹ muốn bán đáp ứng quy định về số tiền tối thiểu của doanh nghiệp bảo hiểm về việc bán Đơn vị quỹ liên kết đơn vị. Đồng thời, có đơn yêu cầu bán Đơn vị quỹ theo mẫu của doanh nghiệp bảo hiểm trong đó nêu rõ số Đơn vị quỹ muốn bán hoặc tỉ lệ % vào mỗi quỹ liên kết đơn vị muốn bán, và ký tên trên đơn yêu cầu đó.",
+      "2": "B. Hợp đồng bảo hiểm còn hiệu lực. Đồng thời, có đơn yêu cầu bán Đơn vị quỹ theo mẫu của doanh nghiệp bảo hiểm trong đó nêu rõ số Đơn vị quỹ muốn bán hoặc tỉ lệ % vào mỗi quỹ liên kết đơn vị muốn bán, và ký tên trên đơn yêu cầu đó.",
+      "3": "C. Hợp đồng bảo hiểm còn hiệu lực, số Đơn vị quỹ muốn bán đáp ứng quy định về số tiền tối thiểu của doanh nghiệp bảo hiểm về việc bán Đơn vị quỹ liên kết đơn vị. Đồng thời, có đơn yêu cầu bán Đơn vị quỹ theo mẫu của doanh nghiệp bảo hiểm trong đó nêu rõ số Đơn vị quỹ muốn bán và ký tên trên đơn yêu cầu đó.",
+      "ID": "ILP-VIDI-115",
+      "question": "Bên mua bảo hiểm được thực hiện bán lại Đơn vị quỹ liên kết đơn vị khi:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Vào ngày định giá",
+      "2": "B. Vào ngày định giá kế tiếp",
+      "ID": "ILP-VIDI-116",
+      "question": "Doanh nghiệp bảo hiểm thực hiện giải quyết yêu cầu mua thêm hoặc bán lại Đơn vị quỹ liên kết đơn vị vào ngày nào?",
+      "answer": "2"
+    },
+    {
+      "1": "A. Đúng",
+      "2": "B. Sai",
+      "ID": "ILP-VIDI-117",
+      "question": "“Doanh nghiệp bảo hiểm có thể từ chối việc bên mua bảo hiểm mua thêm hoặc bán lại Đơn vị quỹ liên kết Đơn vị quỹ liên kết đơn vị khi bên mua bảo hiểm đã đáp ứng các điều kiện theo quy định”. Phát biểu này:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Phê duyệt quy chế, chính sách, quy trình đầu tư của từng quỹ liên kết đơn vị trên cơ sở thận trọng nhất để đảm bảo an toàn các tài sản của quỹ liên kết đơn vị và phù hợp với mục tiêu, chiến lược đầu tư của từng quỹ liên kết đơn vị đã công bố với khách hàng",
+      "2": "B. Quyết định việc đóng quỹ liên kết đơn vị để chuyển đổi các tài sản sang một quỹ liên kết đơn vị mới có cùng các mục tiêu đầu tư; thay đổi tên của quỹ liên kết đơn vị; chia tách hoặc sáp nhập các Đơn vị quỹ liên kết đơn vị hiện có hoặc ngừng định giá Đơn vị quỹ liên kết đơn vị và các giao dịch liên quan đến hợp đồng bảo hiểm trong trường hợp đặc biệt được quy định tại hợp đồng bảo hiểm nhằm đảm bảo quyền lợi cho bên mua bảo hiểm;",
+      "3": "C. Phê duyệt việc lựa chọn tài sản đầu tư phù hợp với quy định về các hạn mức đầu tư tại Điều 18 Thông tư 135/2012/TT-BTC. Các nhiệm vụ khác theo yêu cầu của cơ quan nhà nước có thẩm quyền và quy định của pháp luật.",
+      "4": "D. Tất cả các đáp án trên.",
+      "ID": "ILP-VIDI-118",
+      "question": "Theo quy định, doanh nghiệp bảo hiểm phải thành lập Hội đồng đầu tư để:",
+      "answer": "4"
+    },
+    {
+      "1": "A. Hai (02) thành viên",
+      "2": "B. Ba (03) thành viên",
+      "3": "C. Năm (05) thành viên",
+      "ID": "ILP-VIDI-119",
+      "question": "Theo quy định, Hội đồng đầu tư cần có ít nhất bao nhiêu thành viên?",
+      "answer": "2"
+    },
+    {
+      "1": "A. Định kỳ hàng tháng và có thể họp bất thường theo yêu cầu của doanh nghiệp bảo hiểm",
+      "2": "B. Định kỳ hàng quý và có thể họp bất thường theo yêu cầu của doanh nghiệp bảo hiểm",
+      "3": "C. Định kỳ nửa năm và có thể họp bất thường theo yêu cầu của doanh nghiệp bảo hiểm",
+      "4": "D. Định kỳ hàng năm và có thể họp bất thường theo yêu cầu của doanh nghiệp bảo hiểm",
+      "ID": "ILP-VIDI-120",
+      "question": "Theo quy định, Hội đồng đầu tư do doanh nghiệp bảo hiểm thành lập sẽ phải họp:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Đúng",
+      "2": "B. Sai",
+      "ID": "ILP-VIDI-121",
+      "question": "“Theo quy định tại Thông tư này, doanh nghiệp bảo hiểm triển khai sản phẩm bảo hiểm liên kết đơn vị phải ủy thác cho công ty quản lý quỹ đã có kinh nghiệm quản lý quỹ thành viên để tiến hành đầu tư các tài sản của các quỹ liên kết đơn vị theo đúng hạn mức, mục tiêu, chiến lược đầu tư của từng quỹ liên kết đơn vị và quy định của pháp luật hiện hành.” Phát biểu trên đây:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Định kỳ tối thiểu hàng tuần hoặc thời gian ngắn hơn theo thỏa thuận tại hợp đồng ủy thác và trước thời điểm định giá kế tiếp",
+      "2": "B. Định kỳ tối thiểu hai tuần hoặc thời gian ngắn hơn theo thỏa thuận tại hợp đồng ủy thác và trước thời điểm định giá kế tiếp",
+      "3": "C. Định kỳ tối thiểu hàng tháng hoặc thời gian ngắn hơn theo thỏa thuận tại hợp đồng ủy thác và trước thời điểm định giá kế tiếp",
+      "4": "D. Định kỳ tối thiểu hàng quý hoặc thời gian ngắn hơn theo thỏa thuận tại hợp đồng ủy thác và trước thời điểm định giá kế tiếp",
+      "ID": "ILP-VIDI-122",
+      "question": "Theo quy định tại Thông tư này, Công ty quản lý quỹ được doanh nghiệp bảo hiểm ủy thác, phải phối hợp cùng ngân hàng giám sát và doanh nghiệp bảo hiểm định kỳ đánh giá giá trị tài sản ròng của quỹ liên kết đơn vị và giá trị tài sản ròng trên một đơn vị của quỹ liên kết đơn vị và báo cáo về danh mục đầu tư, về định giá và tình hình hoạt động của quỹ liên kết đơn vị như thế nào:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Doanh nghiệp bảo hiểm",
+      "2": "B. Công ty Quản lý quỹ",
+      "3": "C. Cả A & B",
+      "ID": "ILP-VIDI-123",
+      "question": "Đơn vị nào chịu trách nhiệm đối chiếu các khoản đầu tư của công ty quản lý quỹ và tài khoản lưu ký tại ngân hàng, đảm bảo luôn luôn khớp tổng số dư các tài khoản cá nhân và giá trị tài sản ròng của quỹ liên kết đơn vị tại từng thời điểm?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Công ty quản lý quỹ chịu trách nhiệm",
+      "2": "B.Doanh nghiệp bảo hiểm chịu trách nhiệm",
+      "3": "C. Hội đồng đầu tư chịu trách nhiệm",
+      "4": "D. Doanh nghiệp bảo hiểm và Công ty quản lý quỹ chịu trách nhiệm",
+      "ID": "ILP-VIDI-124",
+      "question": "Trong trường hợp có bất kỳ sai sót hoặc tổn thất nào gây ra do việc định giá sai theo hợp đồng ủy thác của doanh nghiệp bảo hiểm về quản lý quỹ liên kết đơn vị thì:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Tiến hành phân tích nhu cầu và khả năng tham gia bảo hiểm của khách hàng để tư vấn cho khách hàng về sản phẩm bảo hiểm và số tiền bảo hiểm phù hợp với tình hình tài chính hiện tại và các nhu cầu tài chính trong tương lai của khách hàng.",
+      "2": "B. Dựng mẫu phân tích nhu cầu khách hàng và bộ câu hỏi đánh giá mức độ chấp nhận rủi ro trong đầu tư của khách hàng. Khách hàng phải ký xác nhận vào bản đánh giá mức độ chấp nhận rủi ro trong đầu tư.",
+      "3": "C. Khách hàng phải ký xác nhận về việc hiểu rõ sản phẩm bảo hiểm mà họ dự kiến mua, nhận thức rõ được quyền lợi bảo hiểm, quyền lợi đầu tư và các rủi ro đầu tư có thể gặp phải và các khoản phí mà doanh nghiệp bảo hiểm tính cho khách hàng.",
+      "4": "D. Tất cả các phương án trên",
+      "ID": "ILP-VIDI-125",
+      "question": "Trước khi giao kết hợp đồng bảo hiểm, doanh nghiệp bảo hiểm phải:",
+      "answer": "4"
+    },
+    {
+      "1": "A. Trên cơ sở các thông tin do khách hàng cung cấp khi trả lời các câu hỏi, doanh nghiệp bảo hiểm phải xác định được mức độ chấp nhận rủi ro của khách hàng, chi tiết tối thiểu theo năm (05) nhóm khách hàng sau: Nhóm thận trọng về đầu tư; Nhóm tương đối thận trọng về đầu tư; Nhóm cân bằng về đầu tư; Nhóm tương đối mạo hiểm về đầu tư và Nhóm mạo hiểm về đầu tư. Khách hàng phải ký xác nhận vào bản đánh giá mức độ chấp nhận rủi ro trong đầu tư.",
+      "2": "B. Trên cơ sở các thông tin do khách hàng cung cấp khi trả lời các câu hỏi, doanh nghiệp bảo hiểm phải xác định được mức độ chấp nhận rủi ro của khách hàng, chi tiết tối thiểu theo bốn (04) nhóm khách hàng sau: Nhóm thận trọng về đầu tư; Nhóm tương đối thận trọng về đầu tư; Nhóm cân bằng về đầu tư; Nhóm tương đối mạo hiểm về đầu tư. Khách hàng phải ký xác nhận vào bản đánh giá mức độ chấp nhận rủi ro trong đầu tư.",
+      "3": "C. Trên cơ sở các thông tin do khách hàng cung cấp khi trả lời các câu hỏi, doanh nghiệp bảo hiểm phải xác định được mức độ chấp nhận rủi ro của khách hàng, chi tiết tối thiểu theo ba (03) nhóm khách hàng sau: Nhóm thận trọng về đầu tư; Nhóm tương đối thận trọng về đầu tư; Nhóm cân bằng về đầu tư; Khách hàng phải ký xác nhận vào bản đánh giá mức độ chấp nhận rủi ro trong đầu tư.",
+      "4": "D. Trên cơ sở các thông tin do khách hàng cung cấp khi trả lời các câu hỏi, doanh nghiệp bảo hiểm phải xác định được mức độ chấp nhận rủi ro của khách hàng, chi tiết tối thiểu theo hai (02) nhóm khách hàng sau: Nhóm thận trọng về đầu tư; Nhóm mạo hiểm về đầu tư. Khách hàng phải ký xác nhận vào bản đánh giá mức độ chấp nhận rủi ro trong đầu tư.",
+      "ID": "ILP-VIDI-126",
+      "question": "Mẫu phân tích nhu cầu khách hàng và bộ câu hỏi đánh giá mức độ chấp nhận rủi ro trong đầu tư của khách hàng có tác dụng như thế nào?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Quy tắc, điều khoản sản phẩm bảo hiểm được Bộ Tài chính phê chuẩn. Tài liệu giới thiệu sản phẩm",
+      "2": "B. Tài liệu minh họa bán hàng về các trường hợp điển hình",
+      "3": "C. Tình hình hoạt động của quỹ liên kết đơn vị và Giá Đơn vị quỹ",
+      "4": "D. A, B, C đều đúng",
+      "ID": "ILP-VIDI-127",
+      "question": "Doanh nghiệp bảo hiểm phải công bố các tài liệu nào trên website liên quan tới sản phẩm BH Liên kết đơn vị?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Thu các khoản phí theo quy định của pháp luật.",
+      "2": "B. Lựa chọn công ty quản lý quỹ và ngân hàng giám sát để thực hiện quản lý các quỹ liên kết đơn vị.",
+      "3": "C. Các quyền khác theo quy định của pháp luật hiện hành",
+      "4": "D. A, B, C đều đúng",
+      "ID": "ILP-VIDI-128",
+      "question": "Doanh nghiệp kinh doanh bảo hiểm nhân thọ có những quyền  nào sau đây:",
+      "answer": "4"
+    },
+    {
+      "1": "A. Thực hiện các cam kết theo thoả thuận tại hợp đồng bảo hiểm liên kết đơn vị.",
+      "2": "B. Khi giá trị tài khoản của khách hàng không đủ để thanh toán cho khoản phí bảo hiểm rủi ro, phí quản lý hợp đồng cho tháng kế tiếp, doanh nghiệp bảo hiểm phải thông báo cho khách hàng về tình trạng hợp đồng bảo hiểm.",
+      "3": "C. Khi giá trị tài khoản của khách hàng không đủ để thanh toán cho khoản phí bảo hiểm rủi ro, phí quản lý hợp đồng cho tháng kế tiếp, doanh nghiệp bảo hiểm không phải thông báo cho khách hàng về tình trạng hợp đồng bảo hiểm. Khách hàng tự theo dõi hợp đồng của mình.",
+      "4": "D. Ghi nhận đầy đủ, chính xác, kịp thời và rõ ràng về các thông tin của từng khách hàng liên quan đến việc giao kết và thực hiện hợp đồng bảo hiểm liên kết đơn vị.",
+      "ID": "ILP-VIDI-129",
+      "question": "Theo quy định về trách nhiệm, nghĩa vụ của doanh nghiệp bảo hiểm, thì đáp án nào sau đây là sai:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Doanh nghiệp kinh doanh bảo hiểm nhân thọ phải thành lập tối thiểu hai (02) quỹ liên kết đơn vị. Quỹ liên kết đơn vị đó phải có mục tiêu đầu tư khác nhau dành cho mỗi sản phẩm bảo hiểm liên kết đơn vị.",
+      "2": "B. Doanh nghiệp kinh doanh bảo hiểm nhân thọ phải thành lập tối thiểu bốn (04) quỹ liên kết đơn vị. Quỹ liên kết đơn vị đó phải có mục tiêu đầu tư khác nhau dành cho mỗi sản phẩm bảo hiểm liên kết đơn vị.",
+      "3": "C. Doanh nghiệp kinh doanh bảo hiểm nhân thọ phải thành lập tối thiểu hai (02) quỹ liên kết đơn vị. Quỹ liên kết đơn vị đó không cần có mục tiêu đầu tư khác nhau dành cho mỗi sản phẩm bảo hiểm liên kết đơn vị.",
+      "4": "D. Tất cả đáp án đều sai.",
+      "ID": "ILP-VIDI-130",
+      "question": "Doanh nghiệp kinh doanh bảo hiểm nhân thọ phải thành lập tối thiểu bao nhiêu quỹ liên kết đơn vị?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Mục tiêu hoạt động của các quỹ liên kết đơn vị phải rõ ràng, chi tiết để bên mua bảo hiểm có thể đánh giá một cách khách quan về thực trạng hoạt động của quỹ liên kết đơn vị cũng như tính chất các tài sản có trong quỹ liên kết đơn vị và những rủi ro mà quỹ liên kết đơn vị có thể gặp phải",
+      "2": "B. Doanh nghiệp bảo hiểm phải đảm bảo rằng quỹ liên kết đơn vị được đầu tư phù hợp với các mục tiêu đã công bố và tuân thủ những hạn mức đầu tư theo quy định của pháp luật.",
+      "3": "C. Các mục tiêu, cách thức phân bổ các tài sản đầu tư của quỹ liên kết đơn vị phải được thông báo đầy đủ, rõ ràng trong tài liệu giới thiệu sản phẩm và hợp đồng bảo hiểm.",
+      "4": "D. A, B, C đều đúng",
+      "ID": "ILP-VIDI-131",
+      "question": "Mục tiêu của các quỹ liên kết đơn vị là gì?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Các quỹ liên kết đơn vị do bên mua bảo hiểm lựa chọn và tỷ lệ phân bổ phí bảo hiểm để mua các Đơn vị quỹ liên kết đơn vị",
+      "2": "B. Khai báo Thông tin chi tiết, chính xác về thu nhập của khách hàng.",
+      "3": "C. Tỷ lệ, số tiền cụ thể, mức tối đa và cách thức tính toán các khoản phí liên quan đến hợp đồng bảo hiểm liên kết đơn vị",
+      "4": "D. Các lựa chọn để bên mua bảo hiểm thay đổi quyền lợi rủi ro, tỷ lệ phí bảo hiểm phân bổ vào quỹ liên kết đơn vị, phí bảo hiểm, việc chuyển đổi giữa các quỹ liên kết đơn vị và thời gian gia hạn nộp phí bảo hiểm",
+      "ID": "ILP-VIDI-132",
+      "question": "Hợp đồng bảo hiểm liên kết đơn vị không cần thông tin sau đây:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Không cần quy định trong hợp đồng.",
+      "2": "B. Phải có quy định rõ ràng các khoản phí tối đa.",
+      "3": "C. Tùy trường hợp cụ thể.",
+      "ID": "ILP-VIDI-133",
+      "question": "Hợp đồng bảo hiểm liên kết đơn vị có phải quy định rõ các khoản phí tối đa áp dụng cho bên mua bảo hiểm không?",
+      "answer": "2"
+    },
+    {
+      "1": "A. Đóng quỹ liên kết đơn vị hiện tại để chuyển đổi các tài sản sang một quỹ liên kết đơn vị mới có cùng các mục tiêu đầu tư",
+      "2": "B. Thay đổi tên của quỹ liên kết đơn vị. Chia tách hoặc sáp nhập các Đơn vị quỹ liên kết đơn vị hiện có.",
+      "3": "C. A, B đúng",
+      "4": "D. A, B sai",
+      "ID": "ILP-VIDI-134",
+      "question": "Doanh nghiệp bảo hiểm được phép áp dụng các biện pháp nào dưới đây để bảo vệ và gia tăng quyền lợi của bên mua bảo hiểm?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Yêu cầu doanh nghiệp bảo hiểm cung cấp đầy đủ thông tin và giải thích các điều kiện, điều khoản bảo hiểm để nhận thức được các rủi ro liên quan trước khi giao kết hợp đồng bảo hiểm liên kết đơn vị",
+      "2": "B. Có thời gian tối thiểu là hai mươi mốt (21) ngày kể từ ngày nhận được hợp đồng bảo hiểm để cân nhắc điều kiện, điều khoản hợp đồng bảo hiểm. Trong khoảng thời gian tự do cân nhắc, nếu bên mua bảo hiểm có yêu cầu huỷ bỏ hợp đồng bảo hiểm, doanh nghiệp bảo hiểm phải trả lại toàn bộ số phí bảo hiểm đã đóng sau khi trừ đi các chi phí y tế/kiểm tra sức khoẻ (nếu có)",
+      "3": "C. Tạm ngưng đóng phí bảo hiểm sau khoảng thời gian hợp đồng bảo hiểm có hiệu lực theo thoả thuận tại hợp đồng bảo hiểm. Sau khi khách hàng ngưng đóng phí bảo hiểm, hợp đồng bảo hiểm tiếp tục duy trì hiệu lực, các khoản phí bảo hiểm rủi ro, phí quản lý hợp đồng sẽ được khấu trừ vào giá trị tài khoản hàng tháng của khách hàng",
+      "4": "D. A, B, C đều đúng",
+      "ID": "ILP-VIDI-135",
+      "question": "Quyền của bên mua bảo hiểm là:",
+      "answer": "4"
+    },
+    {
+      "1": "Rút một phần hoặc toàn bộ giá trị tài khoản của hợp đồng theo thoả thuận tại hợp đồng bảo hiểm",
+      "2": "B. Thẩm định rủi ro",
+      "3": "C. Chuyển đổi quỹ liên kết đơn vị bằng cách chuyển một phần hoặc toàn bộ giá trị các Đơn vị quỹ của hợp đồng bảo hiểm từ quỹ liên kết đơn vị này sang quỹ liên kết đơn vị khác với tỷ lệ phân bổ.",
+      "4": "D. Thay đổi tỷ lệ đầu tư vào các quỹ liên kết đơn vị theo thoả thuận tại hợp đồng bảo hiểm. Việc thay đổi được áp dụng cho các khoản phí bảo hiểm đã nộp sau khi có yêu cầu thay đổi và theo tỷ lệ đã được doanh nghiệp bảo hiểm chấp thuận.",
+      "ID": "ILP-VIDI-136",
+      "question": "Bên mua bảo hiểm KHÔNG có quyền nào sau đây?",
+      "answer": "2"
+    },
+    {
+      "1": "A. Thay đổi số tiền bảo hiểm theo quy định tại hợp đồng bảo hiểm, trừ trường hợp hợp đồng bảo hiểm đang trong thời gian tạm ngưng đóng phí bảo hiểm. Việc tăng hoặc giảm số tiền bảo hiểm chỉ có hiệu lực vào năm hợp đồng bảo hiểm kế tiếp sau khi yêu cầu của bên mua bảo hiểm được chấp thuận",
+      "2": "B. Thay đổi phí bảo hiểm theo quy định tại hợp đồng bảo hiểm. Việc tăng hoặc giảm phí bảo hiểm có hiệu lực sau khi được doanh nghiệp bảo hiểm chấp thuận. Việc giảm phí bảo hiểm trong mọi trường hợp đều không được thấp hơn mức phí bảo hiểm tối thiểu theo quy định của doanh nghiệp bảo hiểm",
+      "3": "C. Bên mua bảo hiểm có quyền chuyển nhượng hợp đồng bảo hiểm mà không cần thông báo cho doanh nghiệp bảo hiểm bằng văn bản. Vì đây là tài sản cá nhân của Bên mua bảo hiểm.",
+      "4": "D. Chấm dứt hợp đồng bảo hiểm trước thời hạn theo thoả thuận tại hợp đồng bảo hiểm",
+      "ID": "ILP-VIDI-137",
+      "question": "Đáp án nào là Sai khi nói về quyền của Bên mua bảo hiểm?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Khôi phục hiệu lực của hợp đồng bảo hiểm trong vòng hai (02) năm kể từ ngày hợp đồng bảo hiểm bị mất hiệu lực gần nhất",
+      "2": "B. Nhận các báo cáo thường niên liên quan đến hợp đồng bảo hiểm, các quỹ liên kết đơn vị và các thông tin khác có liên quan theo quy định của pháp luật",
+      "3": "C. A, B đúng",
+      "4": "D. A, B sai",
+      "ID": "ILP-VIDI-138",
+      "question": "Đáp án nào đúng khi nói về quyền của bên mua bảo hiểm?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Bên mua bảo hiểm không có nghĩa vụ đóng phí cho doanh nghiệp bảo hiểm",
+      "2": "B. Kê khai đầy đủ, trung thực các thông tin theo yêu cầu của doanh nghiệp bảo hiểm tại hồ sơ yêu cầu bảo hiểm",
+      "3": "C. Đọc kỹ các tài liệu giới thiệu sản phẩm, tài liệu minh họa bán hàng và ký vào các tài liệu do doanh nghiệp bảo hiểm cung cấp",
+      "4": "D. Đóng phí bảo hiểm theo thoả thuận tại hợp đồng bảo hiểm",
+      "ID": "ILP-VIDI-139",
+      "question": "Đáp án nào là sai khi nói về nghĩa vụ của bên mua bảo hiểm?",
+      "answer": "1"
+    },
+    {
+      "1": "A. 1 tuần/ 1 lần",
+      "2": "B. 2 tuần / lần",
+      "3": "C. 3 tuần/ 1 lần",
+      "4": "D. 4 tuần / 1 lần",
+      "ID": "ILP-VIDI-140",
+      "question": "Doanh nghiệp bảo hiểm phải định giá tài sản của quỹ liên kết đơn vị theo định kỳ tối thiểu bao lâu một lần?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Doanh nghiệp sẽ báo cho Bộ Tài Chính để Bộ Tài Chính xử lý thay.",
+      "2": "B. Doanh nghiệp không phải chịu trách nhiệm về việc định giá sai. Vì giá cả thị trường có thể biến động thất thường.",
+      "3": "C. Doanh nghiệp bảo hiểm phải chịu hoàn toàn trách nhiệm và phải bồi thường cho bên mua bảo hiểm và quỹ liên kết đơn vị các thiệt hại phát sinh từ việc mua, bán các Đơn vị quỹ do sai sót trong trường hợp giá trị tài sản ròng của quỹ bị định giá sai.",
+      "4": "D. Bên mua bảo hiểm sẽ chịu một phần thiệt hại cùng với doanh nghiệp bảo hiểm.",
+      "ID": "ILP-VIDI-141",
+      "question": "Trong trường hợp có sai sót khi định giá đơn vị của quỹ liên kết đơn vị, doanh nghiệp bảo hiểm phải:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Đạt từ 0,25% giá trị tài sản ròng trở lên trong trường hợp đầu tư vào cổ phiếu",
+      "2": "B. Đạt từ 0,75% giá trị tài sản ròng trở lên trong trường hợp đầu tư vào trái phiếu",
+      "3": "C. Đạt từ 1,00% giá trị tài sản ròng trở lên trong trường hợp đầu tư vào các tài sản khác",
+      "4": "D. A, B, C đều đúng",
+      "ID": "ILP-VIDI-142",
+      "question": "Mức độ khi doanh nghiệp bảo hiểm phải bồi thường cho bên mua bảo hiểm được quy định như thế nào?",
+      "answer": "4"
+    },
+    {
+      "1": "A. 3 Ngày làm việc",
+      "2": "B. 4 Ngày làm việc",
+      "3": "C. 5 Ngày làm việc",
+      "4": "D. Không có quy định về việc này",
+      "ID": "ILP-VIDI-143",
+      "question": "Doanh nghiệp bảo hiểm phải có báo cáo phương án khắc phục sai sót khi định giá Đơn vị quỹ cho Bộ Tài chính chậm nhất là bao nhiêu ngày làm việc kể từ ngày phát hiện sai sót. ",
+      "answer": "1"
+    },
+    {
+      "1": "A. 14 ngày",
+      "2": "B. 15 ngày",
+      "3": "C. 21 ngày",
+      "4": "D. 30 ngày",
+      "ID": "ILP-VIDI-144",
+      "question": "Trong vòng bao nhiêu ngày làm việc kể từ ngày có báo cáo Bộ Tài chính, doanh nghiệp bảo hiểm phải tiến hành đền bù thiệt hại phát sinh cho bên mua bảo hiểm và quỹ liên kết đơn vị.",
+      "answer": "2"
+    },
+    {
+      "1": "A. Rủi ro trong đầu tư là khả năng mất một phần hoặc toàn bộ vốn ban đầu mà nhà đầu tư không lường trước được.",
+      "2": "B. Rủi ro trong đầu tư là khả năng mất toàn bộ vốn ban đầu mà nhà đầu tư không lường trước được.",
+      "3": "C. Rủi ro trong đầu tư là sự thay đổi hay biến động của lãi gộp mà nhà đầu tư không lường trước được.",
+      "4": "D. Rủi ro trong đầu tư là sự thay đổi hay biến động của vốn ban đầu mà nhà đầu tư chỉ lường trước được không quá 50%.",
+      "ID": "ILP-VIDI-145",
+      "question": "Chọn câu đúng nhất:",
+      "answer": "1"
+    },
+    {
+      "1": "A . Cổ phiếu",
+      "2": "B. Cổ phiếu của các công ty lớn",
+      "3": "C. Trái phiếu",
+      "4": "D. Cả 3 câu trên đều sai",
+      "ID": "ILP-VIDI-146",
+      "question": "Chọn từ thích hợp để điền vào chỗ trống (…) trong đoạn văn sau: “Người sở hữu … có quyền nhận lãi khi đến hạn thanh toán, nhận gốc khi đáo hạn và còn được chuyển nhượng lại cho tổ chức phát hành hoặc trên thị trường.”",
+      "answer": "3"
+    },
+    {
+      "1": "A. Là giấy tờ xác nhận quyền sở hữu đối với tài sản của công ty nhà nước phát hành, không kỳ hạn và có hoàn trả vốn gốc.",
+      "2": "B. Là giấy tờ xác nhận quyền sở hữu đối với tài sản của tổ chức kinh doanh phát hành, có kỳ hạn và không hoàn trả vốn gốc.",
+      "3": "C. Là giấy tờ xác nhận quyền sở hữu đối với tài sản của tổ chức kinh doanh phát hành, có kỳ hạn và có hoàn trả vốn gốc.",
+      "4": "D. Là giấy tờ xác nhận quyền sở hữu đối với tài sản của tổ chức kinh doanh phát hành, không kỳ hạn và không hoàn trả vốn gốc.",
+      "ID": "ILP-VIDI-147",
+      "question": "Cổ phiếu",
+      "answer": "4"
+    },
+    {
+      "1": "A. Bất động sản",
+      "2": "B. Cổ phiếu",
+      "3": "C. Tiền gửi ngân hàng",
+      "4": "D. Cả 3 câu trên đều đúng.",
+      "ID": "ILP-VIDI-148",
+      "question": "Nói chung, trái phiếu có mức độ rủi ro cao hơn:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Cổ phiếu",
+      "2": "B. Trái phiếu",
+      "3": "C. Tiền gửi",
+      "4": "D. Bất động sản",
+      "ID": "ILP-VIDI-149",
+      "question": "Hình thức đầu tư có độ an toàn cao nhất (rủi ro thanh khoản thấp nhất), lợi nhuận thấp nhất là:",
+      "answer": "3"
+    },
+    {
+      "1": "A. Bảo toàn vốn",
+      "2": "B. Giảm thiểu rủi ro và tối đa hoá lợi nhuận.",
+      "3": "C. Né tránh rủi ro",
+      "4": "D. Chuyển giao rủi ro",
+      "ID": "ILP-VIDI-150",
+      "question": "Đa dạng hoá đầu tư nhằm mục đích:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Tái cân đối tỷ lệ đầu tư nhằm duy trì tỷ lệ phân bổ đầu tư như kế hoạch đề ra.",
+      "2": "B. Đa dạng hoá đầu tư là sự phân tán lợi nhuận ở nhiều hạng mục đầu tư khác nhau.",
+      "3": "C. Cổ phiếu là giấy tờ xác nhận quyền sở hữu đối với tài sản của công ty nhà nước phát hành, không kỳ hạn và có hoàn trả vốn gốc.",
+      "4": "D. Rủi ro trong đầu tư là sự thay đổi hay biến động của giá trị tài sản đầu tư mà nhà đầu tư chỉ lường trước được không quá 50%.",
+      "ID": "ILP-VIDI-151",
+      "question": "Chọn câu đúng nhất:",
+      "answer": "1"
+    },
+    {
+      "1": "A. 36 triệu tăng lên thành 72 triệu sau 20 năm.",
+      "2": "B. 72 triệu tăng lên thành 108 triệu sau 8 năm.",
+      "3": "C. 36 triệu tăng lên thành 72 triệu sau 9 năm.",
+      "4": "D. 10 triệu tăng lên thành 72 triệu sau 8 năm.",
+      "ID": "ILP-VIDI-152",
+      "question": "Theo quy luật 72, nếu khách hàng gửi tiết kiệm với lãi suất  là 8%/ năm. Hãy xác định câu nào sau đây là đúng",
+      "answer": "3"
+    },
+    {
+      "1": "A. Lợi nhuận càng cao, rủi ro càng lớn.",
+      "2": "B. Tính thanh khoản càng cao, rủi ro càng lớn.",
+      "3": "C. Lợi nhuận càng thấp, rủi ro càng lớn.",
+      "4": "D. Cả ba câu trên đều sai.",
+      "ID": "ILP-VIDI-153",
+      "question": "Chọn câu đúng nhất:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Là hợp đồng bảo hiểm nhân thọ cho phép công ty bảo hiểm chủ động đầu tư mà không cần tham khảo bất cứ ý kiến nào của khách hàng, kể cả việc lựa chọn quỹ đầu tư.",
+      "2": "B. Là hợp đồng bảo hiểm nhân thọ cho phép cả công ty bảo hiểm và khách hàng cùng đầu tư thông qua các Qũy đã chọn.",
+      "3": "C. Là hợp đồng bảo hiểm nhân thọ cho phép khách hàng tham gia đầu tư thông qua các Quỹ đã chọn.",
+      "4": "D. Cả 3 câu trên đều sai.",
+      "ID": "ILP-VIDI-154",
+      "question": "Hợp đồng bảo hiểm liên kết đơn vị:",
+      "answer": "3"
+    },
+    {
+      "1": "A. 1 & 2 đều đúng.",
+      "2": "B. 1 & 2 đều sai.",
+      "3": "C. 3 & 4 đúng.",
+      "4": "D. 2 & 3 đúng",
+      "ID": "ILP-VIDI-155",
+      "question": "Hãy chọn câu đúng khi nói về Quỹ đầu tư của sản phẩm bảo hiểm liên kết đơn vị:\r\n1. Để đầu tư vào các Quỹ của sản phẩm bảo hiểm liên kết đơn vị thì Nhà đầu tư phải có vốn thật lớn.\r\n2. Các Quỹ đầu tư của sản phẩm bảo hiểm liên kết đơn vị đều có mức độ rủi ro cao.\r\n3. Đầu tư thông qua sản phẩm bảo hiểm liên kết đơn vị, các nhà đầu tư nhỏ có thể tiếp cận với các cơ hội đầu tư tốt mà chỉ các nhà đầu tư lớn mới có.\r\n4. Quỹ đầu tư được quản lý rất chuyên nghiệp.",
+      "answer": "3"
+    },
+    {
+      "1": "A. Giá của Đơn vị quỹ đầu tư thay đổi phụ thuộc vào giá trị tài sản thuần của mỗi Quỹ đầu tư.",
+      "2": "B. Giá của Đơn vị quỹ đầu tư có thể tăng hoặc giảm.",
+      "3": "C. Giá của Đơn vị quỹ đầu tư được tính sau khi khấu trừ phí quản lý quỹ.",
+      "4": "D. Tất cả các câu trên đều đúng.",
+      "ID": "ILP-VIDI-156",
+      "question": "Khi nói về Đơn vị quỹ, câu nào sau đây là đúng?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Theo thông tư 135/2012/TT/BTC, việc định giá Đơn vị quỹ đầu tư được thực hiện thường xuyên ít nhất 2 lần/tuần",
+      "2": "B. Giá Đơn vị quỹ đầu tư sẽ được cập nhật thường xuyên trên trang web công ty.",
+      "3": "C. Giá Đơn vị quỹ bắt buộc phải công bố vào sáng thứ 5 hàng tuần.",
+      "4": "D. Cả 3 câu trên đều đúng.",
+      "ID": "ILP-VIDI-157",
+      "question": "Hãy lựa chọn câu đúng trong các câu sau khi nói về Đơn vị quỹ đầu tư",
+      "answer": "3"
+    },
+    {
+      "1": "A. Bên mua bảo hiểm không nộp đủ Phí bảo hiểm cơ bản khi đến Ngày đến hạn nộp phí trong 3 (ba) Năm hợp đồng đầu tiên; hoặc từ Năm hợp đồng thứ 4 (tư) trở đi, khi Giá trị tài khoản hợp đồng nhỏ hơn các Khoản khấu trừ hàng tháng và các Khoản nợ (nếu có).",
+      "2": "B. Phí bảo hiểm đến hạn mà không được thanh toán.",
+      "3": "C. Phí bảo hiểm cơ bản đến hạn không được thanh toán trong 5 năm đầu tiên.",
+      "4": "D. Phí bảo hiểm đến hạn không được thanh toán trong 10 năm đầu tiên.",
+      "ID": "ILP-VIDI-158",
+      "question": "Hợp đồng bảo hiểm liên kết đơn vị sẽ mất hiệu lực khi nào?",
+      "answer": "1"
+    },
+    {
+      "1": "A. Vay 100% giá trị hoàn lại",
+      "2": "B. Thay đổi Quỹ đầu tư",
+      "3": "C. Tăng hoặc giảm Số tiền bảo hiểm",
+      "4": "D. Câu B và C đúng",
+      "ID": "ILP-VIDI-159",
+      "question": "Khi tham gia Hợp đồng bảo hiểm liên kết đơn vị, khách hàng được quyền sử dụng một trong các quyền sau đây",
+      "answer": "4"
+    },
+    {
+      "1": "A. Chuyển một phần hay toàn bộ giá trị Đơn vị quỹ từ Quỹ liên kết đơn vị này sang Quỹ liên kết đơn vị khác được xem như là: \"Chuyển đổi quỹ“",
+      "2": "B. Chuyển một phần hay toàn bộ giá trị Đơn vị quỹ từ Quỹ liên kết đơn vị này sang Quỹ liên kết đơn vị khác được xem như là: \"Thay đổi tỷ lệ đầu tư“",
+      "3": "C. Chuyển một phần hay toàn bộ giá trị Đơn vị quỹ từ Quỹ liên kết đơn vị này sang Quỹ liên kết đơn vị khác được xem như là: \"Đầu tư thêm“",
+      "4": "D. Chuyển một phần hay toàn bộ giá trị Đơn vị quỹ từ Quỹ liên kết đơn vị này sang Quỹ liên kết đơn vị khác được xem như là: \"Tự động đóng phí \"",
+      "ID": "ILP-VIDI-160",
+      "question": "Chọn câu đúng nhất:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Chuyển đổi Quỹ là thay đổi tỷ lệ % phần phí phân bổ vào các Quỹ đầu tư",
+      "2": "B. Trong thời gian Hợp đồng bảo hiểm đang còn hiệu lực, Bên mua bảo hiểm có thể đóng thêm khoản phí bảo hiểm sau khi đã đóng đầy đủ các khoản Phí Bảo Hiểm Định Kỳ đến hạn.",
+      "3": "C. Khách hàng có thể tăng Số tiền bảo hiểm bằng cách tăng phí bảo hiểm đóng thêm.",
+      "4": "D. Khách hàng được quyền thay đổi danh mục đầu tư của các quỹ đầu tư",
+      "ID": "ILP-VIDI-161",
+      "question": "Câu nào sau đây là đúng nhất:",
+      "answer": "2"
+    },
+    {
+      "1": "A. Phiếu phân tích nhu cầu tài chính",
+      "2": "B. Phiếu kiểm tra sức khỏe tài chính",
+      "3": "C. Phiếu đánh giá mức độ chấp nhận rủi ro",
+      "4": "D. Tài liệu minh họa quyền lợi bảo hiểm",
+      "ID": "ILP-VIDI-162",
+      "question": "Công cụ nào sau đây sẽ giúp cho khách hàng xác định mức độ chấp nhận rủi ro để lựa chọn quỹ đầu tư phù hợp?",
+      "answer": "3"
+    },
+    {
+      "1": "A. Nhu cầu bảo hiểm ",
+      "2": "B. Nhu cầu tài chính tương lai ",
+      "3": "C. Nhu cầu đầu tư ",
+      "4": "D. Tất cả các nhu cầu trên",
+      "ID": "ILP-VIDI-163",
+      "question": "Tư vấn cho khách hàng chọn lựa sản phẩm bảo hiểm liên kết đơn vị thì phải cần xác định nhu cầu sau ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Để xác định nhu cầu tài chính ưu tiên của khách hàng trong tương lai  ",
+      "2": "B. Để biết khả năng tài chính hiện tại của khách hàng ",
+      "3": "C. Để biết khẩu vị rủi ro của khách hàng ",
+      "4": "D. Tất cả các ý trên",
+      "ID": "ILP-VIDI-164",
+      "question": "Tại sao phải phân tích nhu cầu tài chính tương lai và khảo sát mức độ chấp nhận rủi ro trước khi lựa chọn sản phẩm bảo hiểm liên kết đơn vị và quỹ đầu tư cho khách hàng?",
+      "answer": "4"
+    },
+    {
+      "1": "A. Để xác định mức độ phù hợp đối với dòng sản phẩm ILP-2021 cho khách hàng  ",
+      "2": "B. Để lựa chọn quỹ đầu tư phù hợp với khẩu vị rủi ro của khách hàng",
+      "3": "C. Đảm bảo sự chuyên nghiệp của đội ngũ tư vấn và bảo vệ danh tiếng của Công Ty ",
+      "4": "D. Tất cả các ý trên",
+      "ID": "ILP-VIDI-165",
+      "question": "Tại sao phải khảo sát mức độ chấp nhận rủi ro cho khách hàng khi tư vấn sản phẩm bảo hiểm liên kết đơn vị? ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Sản phẩm bảo hiểm liên kết đơn vị không phải là sản phẩm tiết kiệm của ngân hàng mà là một sản phẩm bảo hiểm có tính năng đầu tư. Khách hàng cần lưu ý về sự đánh đổi về rủi ro để thu lại lợi nhuận (risk and return trade-off) khi tham gia sản phẩm liên kết đơn vị với các quỹ đầu tư có tính rủi ro cao.  ",
+      "2": "B. Khi tham gia dòng sản phẩm bảo hiểm – đầu tư, khách hàng sẽ nhận được tỷ suất lợi nhuận tối thiểu từ các quỹ. ",
+      "3": "C. Khi tham gia dòng sản phẩm bảo hiểm – đầu tư, khách hàng được hưởng toàn bộ kết quả đầu tư và cũng như chịu mọi rủi ro trong đầu tư!",
+      "ID": "ILP-VIDI-166",
+      "question": "Phát biểu nào là SAI trong các câu sau đây: ",
+      "answer": "2"
+    },
+    {
+      "1": "A. Bên mua bảo hiểm và doanh nghiệp bảo hiểm thỏa thuận trong hợp đồng bảo hiểm  ",
+      "2": "B. Bên mua bảo hiểm và đại lý bảo hiểm thoản thuận trong hợp đồng bảo hiểm ",
+      "3": "C. Đại lý bảo hiểm và doanh nghiệp bảo hiểm thỏa thuận trong hợp đồng đại lý bảo hiểm ",
+      "4": "D. A và C đúng",
+      "ID": "ILP-VIDI-167",
+      "question": "Trong hợp đồng bảo hiểm nhân thọ, số tiền bảo hiểm hoặc phương thức xác định số tiền bảo hiểm được ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Làm cho họ cảm động và hiểu hơn về công việc của người tư vấn ",
+      "2": "B. Để khơi gợi nhu cầu bảo hiểm ",
+      "3": "C. Để họ hiểu hơn về vai trò bảo hiểm khi có rủi ro xảy ra đối với người trụ cột trong gia đình ",
+      "4": "D. Câu B và C đúng",
+      "ID": "ILP-VIDI-168",
+      "question": "Tại sao cần chia sẻ ý nghĩa bảo hiểm và giải pháp mẫu cho khách hàng trong quá trình tư vấn? ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Khách hàng không có tính thanh khoản cao về mặt tài chính ",
+      "2": "B. Khách hàng không có khả năng đóng phí đều đặn và liên tục ",
+      "3": "C. Khách hàng dễ bị tổn thương về mặt tài chính và mức độ chấp nhận rủi ro không cao ",
+      "4": "D. Tất cả đối tượng khách hàng nêu trên",
+      "ID": "ILP-VIDI-169",
+      "question": "Sản phẩm bảo hiểm liên kết đơn vị không phù hợp với đối tượng khách hàng nào? ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Rút tiền từ Giá trị tài khoản mà không mất phí ",
+      "2": "B. Thay đổi tỷ lệ đầu tư vào các Quỹ đã chọn ",
+      "3": "C. Thay đổi Quỹ đầu tư ",
+      "4": "D. Tất cả các câu đều đúng",
+      "ID": "ILP-VIDI-170",
+      "question": "Khi tham gia Hợp đồng bảo hiểm liên kết đơn vị, khách hàng được quyền sử dụng một trong các quyền sau đây: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Mẫu phân tích nhu cầu tài chính tương lai ",
+      "2": "B. Mẫu phân tích khả năng tài chính hiện tại ",
+      "3": "C. Mẫu khảo sát mức độ chấp nhận rủi ro ",
+      "4": "D. Cả 3 câu trên",
+      "ID": "ILP-VIDI-171",
+      "question": "Cấp độ rủi ro trong đầu tư thường tỷ lệ thuận với lãi suất sinh lời. Để lựa chọn quỹ đầu tư phù hợp khi tham gia dòng sản phẩm bảo hiểm liên kết đơn vị, tư vấn viên thường khuyên khách hàng thực hiện: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Chuyển đổi quỹ đầu tư là thay đổi dòng tiền từ nguồn phí khách hàng đóng sang các quỹ khác",
+      "2": "B. Chuyển đổi quỹ đầu tư là chuyển đổi toàn bộ hoặc một phần giá trị của bất kỳ Quỹ sang một hoặc nhiều Quỹ khác trong cùng tài khoản cơ bản hoặc trong cùng tài khoản Đóng Thêm theo Tỷ Lệ Phân Bổ Quỹ do Bên Mua Bảo Hiểm chỉ định. ",
+      "3": "C. Chuyển đổi quỹ đầu tư là thay đổi tỷ lệ đầu tư vào các quỹ mà Bên Mua Bảo Hiểm chọn lựa lúc tham gia hợp đồng ",
+      "4": "D. Cả 3 câu đều sai.",
+      "ID": "ILP-VIDI-172",
+      "question": "Chuyển đổi quỹ đầu tư là gì? ",
+      "answer": "2"
+    },
+    {
+      "1": "A. Thay đổi tỷ lệ đầu tư là giao dịch được Bên Mua Bảo Hiểm tiến hành nhằm thay đổi dòng tiền từ nguồn phí bảo hiểm đóng định kỳ phân bổ vào các quỹ đầu tư ",
+      "2": "B. Thay đổi tỷ lệ đầu tư là một trong các quyền của bên mua bảo hiểm nhằm tái cân đối tỷ lệ vốn đầu tư để giảm thiểu rủi ro và tăng hiệu quả đầu tư ",
+      "3": "C. Câu A và B đúng ",
+      "4": "D. Câu A và B sai",
+      "ID": "ILP-VIDI-173",
+      "question": "Hiểu như thế nào về khái niệm “Thay đổi tỷ lệ đầu tư”: ",
+      "answer": "3"
+    },
+    {
+      "1": "A. Chọn lọc khách hàng trước khi đề xuất sản phẩm ILP-2021 như một giải pháp tài chính ",
+      "2": "B. Để tìm hiểu nhu cầu thực sự của khách hàng ",
+      "3": "C. Đảm bảo sự chuyên nghiệp của đội ngũ tư vấn và bảo vệ danh tiếng của Công Ty ",
+      "4": "D. Tất cả các ý trên",
+      "ID": "ILP-VIDI-174",
+      "question": "Trong quy trình tư vấn sản phẩm bảo hiểm liên kết đơn vị cho khách hàng, tại sao bước phân tích nhu cầu tài chính lại quan trọng và là một bước phải thực hiện (theo yêu cầu của Bộ Tài Chính)? ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Bên mua bảo hiểm được quyền lựa chọn đầu tư phí của mình để mua các đơn vị của các quỹ liên kết đơn vị do doanh nghiệp bảo hiểm thành lập, được hưởng toàn bộ kết quả đầu tư và chịu mọi rủi ro đầu tư các quỹ liên kết đơn vị đã lựa chọn tương ứng với phần phí bảo hiểm đầu tư ",
+      "2": "B. Bên mua bảo hiểm được quyền lựa chọn đầu tư phí của mình để mua các đơn vị của các quỹ liên kết đơn vị do doanh nghiệp bảo hiểm thành lập, được hưởng toàn bộ kết quả đầu tư và không chịu mọi rủi ro đầu tư các quỹ liên kết đơn vị đã lựa chọn tương ứng với phần phí bảo hiểm đầu tư ",
+      "3": "C. Việc mua, bán các đơn vị của các quỹ liên kết đơn vị thể được thực hiện tại doanh nghiệp bảo hiểm và công ty quản lý quỹ ",
+      "4": "D. Bên mua bảo hiểm được hưởng toàn bộ kết quả đầu tư từ quỹ liên kết đơn vị",
+      "ID": "ILP-VIDI-175",
+      "question": "Phát biểu nào sau đúng với sản phẩm bảo hiểm liên kết đơn vị: ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Bên mua bảo hiểm là tổ chức, cá nhân giao kết hợp đồng với doanh nghiệp bảo hiểm và đóng phí bảo hiểm ",
+      "2": "B. Bên mua bảo hiểm phải có quyền lợi có thể được bảo hiểm phù hợp với từng loại hợp đồng bảo hiểm theo quy định của luật kinh doanh bảo hiểm ",
+      "3": "C. Bên mua bảo hiểm là cá nhân được người thụ hưởng chỉ định để đóng phí bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm ",
+      "4": "D. Bên mua bảo hiểm có thể chọn doanh nghiệp bảo hiểm để giao kết hợp đồng bảo hiểm",
+      "ID": "ILP-VIDI-176",
+      "question": "Theo Luật kinh doanh bảo hiểm, phát biểu nào sau đây là sai: ",
+      "answer": "3"
+    },
+    {
+      "1": "A. Rút một phần từ giá trị tài khoản hợp đồng ",
+      "2": "B. Chuyển đổi quỹ đầu tư ",
+      "3": "C. Thay đổi tỷ lệ đầu tư ",
+      "4": "D. Cả 3 quyền trên",
+      "ID": "ILP-VIDI-177",
+      "question": "Để tái cân đối tỷ lệ vốn đầu tư, khách hàng cần sử dụng quyền nào sau đây ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Kiểm tra, giám sát việt thực hiện hợp đồng đại lý bảo hiểm ",
+      "2": "B .Chấp thuận mà không cần văn bản khi đại lý bảo hiểm của doanh nghiệp mình đồng thời làm đại lý cho nhiều doanh nghiệp bảo hiểm khác ",
+      "3": "C. Yêu cầu đại lý bảo hiểm phải có hợp đồng bảo hiểm trước khi được trở thành đại lý bảo hiểm chính thức của doanh nghiệp bảo hiểm ",
+      "4": "D. A và B đúng",
+      "ID": "ILP-VIDI-178",
+      "question": "TheoLuật kinh doanh bảo hiểm, doanh nghiệp bảo hiểm có quyền: ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Thông báo cho doanh nghiệp bảo hiểm những trường hợp có thể làm tăng rủi ro hoặc giảm rùi ro hoặc làm phát sinh thêm trách nhiệm của doanh nghiệp bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm ",
+      "2": "B. Thông báo cho doanh nghiệp bảo hiểm về việc xảy ra sự kiện bảo hiểm hiểm theo thỏa thuận trong hợp đồng bảo hiểm ",
+      "3": "C. Áp dụng các biện pháp đề phòng, hạn chế tổn thất theo quy định của pháp luật ",
+      "4": "D. A, B, C đúng",
+      "ID": "ILP-VIDI-179",
+      "question": "Trong quá trình thực hiện hợp đồng bảo hiểm, bên mua bảo hiểm có nghĩa vụ: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. 15 ngày ",
+      "2": "B. 30 ngày ",
+      "3": "C. 45 ngày ",
+      "4": "D. 60 ngày",
+      "ID": "ILP-VIDI-180",
+      "question": "Theo luật kinh doanh bảo hiểm, trường hợp không có thỏa thuận về thời hạn bồi thường, trả tiền bảo hiểm, doanh nghiệp bảo hiểm phải bồi thường, trả tiền bảo hiểm trong thời hạn bao nhiêu ngày kể từ ngày nhận được đầu đủ hồ sơ hợp lệ về yêu cầu bồi thường, trả tiền bảo hiểm ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Tổn thất thuộc trách nhiệm bảo hiểm phải phát sinh trực tiếp bởi một rủi ro được bảo hiểm ",
+      "2": "B. Nguyên nhân trực tiếp không nhất thiết phải là nguyên nhân ban đầu hay nguyên nhân gần nhất gây ra tổn thất ",
+      "3": "C. Nguyên nhân trực tiếp là nguyên nhân chi phối và có tác động gây ra tổn thất ",
+      "4": "D. A, B và C đúng",
+      "ID": "ILP-VIDI-181",
+      "question": "Chọn phương án đúng nhất về nguyên tắc nguyên nhân trực tiếp: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Một trong những nhược điểm của gửi tiết kiệm là mức lãi suất ngân hàng có thể có sự biến động mạnh theo thời gian theo những biến động hoặc thay đổi của các yếu tố kinh tế vĩ mô. ",
+      "2": "B. Gửi tiết kiệm thích hợp với nhiều khoản tiền lớn nhỏ khác nhau, được xem là một loại hình tích lũy có ít rủi ro do các ngân hàng đều có bảo hiểm tiền gửi cho khách hang ",
+      "3": "C. Lạm phát là một trong những yếu tố ảnh hưởng mạnh đến lãi suất tiền gửi tiết kiệm. Tại mỗi thời điểm, lãi suất tiền gửi tiết kiệm có thể là thực dương (lãi suất tiết kiệm cao hơn lạm phát) hoặc thực âm (lãi suất tiết kiệm thấp hơn lạm phát) ",
+      "4": "D. Cả 3 câu đều đúng.",
+      "ID": "ILP-VIDI-182",
+      "question": "Chọn các phát biểu đúng sau đây về tiền gửi tiết kiệm: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Doanh nghiệp bảo hiểm phải hoàn trả cho bên mua bảo hiểm số phí bảo hiểm vượt trội đã đóng hoặc tăng số tiền bảo hiểm đã thỏa thuận trong hợp đồng bảo hiểm tương ứng với số phí đã đóng. ",
+      "2": "B. Doanh nghiệp bảo hiểm có quyền hủy bỏ hợp đồng bảo hiểm ",
+      "3": "C. Doanh nghiệp bảo hiểm hoàn trả số phí bảo hiểm đã đóng cho bên mua bảo hiểm sau khi đã trừ các chi phí hợp lý ",
+      "4": "D. Doanh nghiệp bảo hiểm hoàn trả cho bên mua bảo hiểm giá trị hoàn lại của hợp đồng bảo hiểm",
+      "ID": "ILP-VIDI-183",
+      "question": "Trong hợp đồng bảo hiểm nhân thọ, trường hợp bên mua bảo hiểm thông báo sai tuổi (không cố ý) của người được bảo hiểm làm tăng số phí bảo hiểm phải đóng, nhưng tuổi đúng của người được bảo hiểm thuộc nhóm tuổi có thể được bảo hiểm thì: ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Đơn phương đình chỉ thực hiện hợp đồng và thu phí đến thời điểm phát hiện ra hành vi lừa dối của bên mua bảo hiểm ",
+      "2": "B. Đơn phương đình chỉ thực hiện hợp đồng và hoàn lại phí cho bên mua bảo hiểm tương ứng với thời gian còn lại của hợp đồng bảo hiểm ",
+      "3": "C. Chấm dứt hợp đồng bảo hiểm ",
+      "4": "D. Hủy bỏ hợp đồng",
+      "ID": "ILP-VIDI-184",
+      "question": "Theo luật kinh doanh bảo hiểm, trường hợp bên mua bảo hiểm cố ý cung cấp không đầy đủ thông tin nhằm giao kết hợp đồng để được bồi thường, trả tiền bảo hiểm thì doanh nghiệp bảo hiểm có quyền: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Đầu tư cổ phiếu là một trong những kênh đầu tư đem lại tỷ suất sinh lời cao trong dài hạn. ",
+      "2": "B. Là kênh đầu tư linh hoạt, có thể mua bán dễ dàng và nhanh chóng, đặc biệt với cổ phiếu niêm yết. Không đòi hỏi vốn lớn và mọi đối tượng đều có thể tham gia. Khả năng sinh lợi cao nếu đầu tư đúng thời điểm, có tầm nhìn dài hạn và chọn đúng cổ phiếu để đầu tư. ",
+      "3": "C. Thị trường chứng khoán thường có nhiều biến động khó lường trong ngắn hạn do chịu ảnh hưởng bởi nhiều yếu tố như kinh tế vĩ mô trong nước, biến động kinh tế thế giới, tình hình hoạt động doanh nghiệp, tâm lý nhà đầu tư trong nước và nước ngoài, yếu tố dòng tiền cho đầu tư và các sự kiện kinh tế chính trị khác. ",
+      "4": "D. Cả 3 câu đều đúng",
+      "ID": "ILP-VIDI-185",
+      "question": "Chọn các phát biểu đúng sau đây về đầu tư chứng khoán: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Số tiền bồi thường mà người được bảo hiểm nhận được không vượt quá thiệt hại thực tế trọng sự kiện bảo hiểm, trừ trường hợp có thỏa thuận khác trong hợp đồng bảo hiểm. ",
+      "2": "B. Số tiền bồi thường mà người được bảo hiểm nhận được có thể lớn hơn thiệt hại thực tế trong sự kiện bảo hiểm. ",
+      "3": "C. Số tiền bồi thường mà người được bảo hiểm nhận được tùy thuộc vào thỏa thuận giữa doanh nghiệp bảo hiểm và người được bảo hiểm trong hợp đồng hiểm. ",
+      "4": "D. B, C đúng.",
+      "ID": "ILP-VIDI-186",
+      "question": "Theo luật kinh doanh bảo hiểm, chọn phương án đúng nhất về “Nguyên tắc bồi thường” ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Quỹ mở là quỹ được nhiều nhà đầu tư có cùng mục tiêu đầu tư góp vốn vào và được quản lí chuyên nghiệp bởi một tập đoàn hay một công ty tài chính. ",
+      "2": "B. Theo thời gian, giá trị tổng tài sản của quỹ tăng lên là khi giá trị chứng chỉ quỹ tăng lên và giúp cho nhà đầu tư có lợi nhuận khi nhà đầu tư chốt lời qua việc bán lại chứng chỉ quỹ ",
+      "3": "C. Khi một người đầu tư vào Quỹ mở tức là họ đầu tư chứng khoán một cách gián tiếp thông qua công ty tài chính. Họ sử dụng các chuyên gia tài chính đầu tư và quản lý vốn thay cho họ. ",
+      "4": "D. Cả 3 câu đều đúng",
+      "ID": "ILP-VIDI-187",
+      "question": "Chọn các phát biểu đúng sau đây về đầu tư qua quỹ mở: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Vàng được xem là tài sản an toàn nhất, đặc biệt là dựa trên quan điểm chống lại lạm phát và sự mất giá của tiền đồng. ",
+      "2": "B. Vàng là một loại kim loại quý và nguồn cung có giới hạn, thông thường sẽ giữ được giá trị và có xu hướng tăng theo thời gian trong dài hạn.",
+      "3": "C. Vàng được xem là một kênh trú ẩn an toàn trong tình hình kinh tế bất ổn và là một công cụ phòng thủ lạm phát cũng như sự mất giá đồng nội tệ. ",
+      "4": "D. Cả 3 câu đều đúng",
+      "ID": "ILP-VIDI-188",
+      "question": "Chọn các phát biểu đúng sau đây về đầu tư qua vàng: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Đầu tư bất động sản là một kênh đầu tư đặc biệt được ưa chuộng bởi tâm lý thích sở hữu đất đai tại các quốc gia Châu Á (bao gồm cả Việt Nam) và xu hướng tăng giá về dài hạn của bất động sản. ",
+      "2": "B. Nhược điểm của đầu tư bất động sản là nhà đầu tư phải cần vốn đầu tư rất lớn, mất nhiều thời gian để thực hiện giao dịch mua bán và đặc biệt, tính thanh khoản của bất động sản là thấp nhất so với các loại hình đầu tư thông thường khác. ",
+      "3": "C. Bên cạnh kỳ vọng vào sự gia tăng giá trị, đầu tư vào bất động sản cho thuê cũng là một kênh được ưa chuộng như một kênh thay thế cho tiền gửi ngân hàng. ",
+      "4": "D. Cả 3 câu đều đúng",
+      "ID": "ILP-VIDI-189",
+      "question": "Chọn các phát biểu đúng sau đây về đầu tư bất động sản: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Bên mua bảo hiểm được quyền lựa chọn đầu tư phí bảo hiểm của mình để mua các đơn vị của các quỹ liên kết đơn vị do Doanh nghiệp Bảo hiểm thành lập. Được hưởng toàn bộ kết quả đầu tư và chịu mọi rủi ro đầu tư từ các quỹ liên kết đơn vị đã lựa chọn tương ứng với phần phí đầu tư. ",
+      "2": "B. Bên mua bảo hiểm được quyền lựa chọn đầu tư phí bảo hiểm của mình để mua các đơn vị của các quỹ liên kệt đơn vị do Doanh nghiệp Bảo hiểm thành lập. Được hưởng toàn bộ kết quả đầu tư nhưng không chịu rủi ro đầu tư từ các quỹ liên kết đơn vị đã lựa chọn tương ứng với phần phí đầu tư. ",
+      "3": "C. Việc mua bán các Đơn vị quỹ liên kết đơn vị có thể được thực hiện giữa Doanh nghiệp bảo hiểm và Công ty quản lý quỹ ",
+      "4": "D. Doanh nghiệp bảo hiểm được hưởng toàn bộ kết quả đầu tư từ quỹ liên kết đơn vị.",
+      "ID": "ILP-VIDI-190",
+      "question": "Phát biểu nào sau đúng với sản phẩm bảo hiểm liên kết đơn vị ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Đa dạng hóa đầu tư ",
+      "2": "B. Tái cân đối tỷ lệ vốn đầu tư ",
+      "3": "C. Bình quân vốn đầu tư ",
+      "4": "D. Tất cả các cách trên",
+      "ID": "ILP-VIDI-191",
+      "question": "Để giảm thiểu rủi ro trong đầu tư, nhà đầu tư có thể áp dụng các cách sau đây: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Thị trường chứng khoán là nơi mua bán, trao đổi các loại chứng khoán dài hạn (>1 năm), bao gồm Cổ phiếu, Trái phiếu, Chứng chỉ quỹ đầu tư và các chứng khoán khác",
+      "2": "B. Thị trường tiền tệ là thị trường mua bán, trao đổi các tài sản tài chính ngắn hạn (< 1 năm). Ví dụ như Chứng chỉ tiền gửi tiết kiệm, Tín phiếu kho bạc, Kỳ phiếu ngân hàng",
+      "3": "C. Trung gian tài chính là một tổ chức hoặc cá nhân đứng giữa hai hay nhiều bên tham gia vào một bối cảnh tài chính. Thông thường, có một bên là bên cung cấp sản phẩm/dịch vụ và một bên là khách hàng hay người tiêu dùng. Ví dụ như Ngân hàng, Công ty Bảo hiểm, Quỹ Hưu trí, Công ty Tài chính, Công ty Quản lý quỹ",
+      "4": "D. Tất cả các câu trên",
+      "ID": "ILP-VIDI-192",
+      "question": "Chọn phát biểu ĐÚNG trong các câu sau: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Công ty Quản lý Quỹ là một tổ chức trung gian tài chính, chuyên thành lập và quản lý các quỹ đầu tư, phục vụ nhu cầu đầu tư trung và dài hạn của công chúng. ",
+      "2": "B. Quỹ đầu tư thuộc công ty quản lý quỹ là quỹ huy động vốn từ nhà đầu tư để đầu tư vào các loại tài sản theo mục tiêu đầu tư xác định. Quỹ được quản lý bởi một đội ngũ chuyên gia làm việc toàn thời gian và được ngân hàng giám sát (do nhà nước chỉ định) để bảo vệ quyền lợi của nhà đầu tư. ",
+      "3": "C. Danh mục đầu tư của quỹ đầu tư bao gồm các loại tài sản khác nhau như cổ phiếu, trái phiếu, bất động sản và các loại tài sản khác nhằm tối ưu hóa lợi nhuận và giảm thiểu rủi ro trong đầu tư. ",
+      "4": "D. Tất cả các ý trên",
+      "ID": "ILP-VIDI-193",
+      "question": "Chọn phát biểu ĐÚNG trong các câu sau: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Sự kiện bảo hiểm xảy ra không thuộc phạm vi trách nhiệm bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm ",
+      "2": "B. Sự kiện bảo hiểm xảy ra thuộc các trường hợp loại trừ trách nhiệm bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm ",
+      "3": "C. Sự kiện bảo hiểm xảy ra trong thời gian gia hạn hợp đồng bảo hiểm ",
+      "4": "D. A và B đúng",
+      "ID": "ILP-VIDI-194",
+      "question": "Doanh nghiệp bảo hiểm có quyền từ chối bồi thường, trả tiền bảo hiểm trong trường hợp. ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Số tiền bảo hiểm ",
+      "2": "B. Phí bảo hiểm ",
+      "3": "C. Giá trị bảo hiểm ",
+      "4": "D. Số tiền bồi thường",
+      "ID": "ILP-VIDI-195",
+      "question": "Theo Luật kinh doanh bảo hiểm, khoản tiền mà bên mua bảo hiểm phải đóng cho doanh nghiệp bảo hiểm theo quy định của pháp luật hoặc do các bên thỏa thuận trong hợp đồng bảo hiểm là: ",
+      "answer": "2"
+    },
+    {
+      "1": "A. Có quyền yêu cầu doanh nghiệp bảo hiểm giảm phí bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm ",
+      "2": "B. Có quyền yêu cầu doanh nghiệp bảo hiểm giảm số tiền bảo hiểm cho thời gian còn lại của hợp đồng bảo hiểm ",
+      "3": "C. Không có quyền yêu cầu doanh nghiệp bảo hiểm kéo dài thời hạn bảo hiểm ",
+      "4": "D. Có quyền yêu cầu doanh nghiệp bảo hiểm rút ngắn thời hạn bảo hiểm",
+      "ID": "ILP-VIDI-196",
+      "question": "Theo luật kinh doanh bảo hiểm, khi có sự thay đổi những yếu tố làm cơ sở để tính phí bảo hiểm dẫn đến giảm các rủi ro được bảo hiểm, căn cứ thỏa thuận trong hợp đồng bảo hiểm, bên mua bảo hiểm: ",
+      "answer": "1"
+    },
+    {
+      "1": "A. 01 năm kể từ ngày xảy ra sự kiện bảo hiểm ",
+      "2": "B. 02 năm kể từ ngày xảy ra sự kiện bảo hiểm ",
+      "3": "C. 01 năm tính từ ngày người được bảo hiểm hoặc người thụ hưởng biết việc xảy ra sự kiện bảo hiểm đó ",
+      "4": "D. 02 năm tính từ ngày người được bảo hiểm hoặc người thụ hưởng biết việc xảy ra sự kiện bảo hiểm đó.",
+      "ID": "ILP-VIDI-197",
+      "question": " Theo luật kinh doanh bảo hiểm, trường hợp người được bảo hiểm hoặc người thụ hưởng chứng minh được rằng không biết thời điểm xảy ra sự kiện bảo hiểm thì thời hạn nộp hồ sơ yêu cầu bồi thương, trả tiển bảo hiểm là: ",
+      "answer": "3"
+    },
+    {
+      "1": "A. Giới thiệu, chào bán sản phẩm bảo hiểm ",
+      "2": "B. Cung cấp thông tin về sản phẩm bảo hiểm một cách đầy đủ, chính xác cho bên mua bảo hiểm ",
+      "3": "C. Tự kê khai thông tin của bên mua bảo hiểm mà không cần sự đồng ý của bên mua bảo hiểm ",
+      "4": "D. A và B đúng.",
+      "ID": "ILP-VIDI-198",
+      "question": "Theo luật kinh doanh bảo hiểm, phát biểu nào sau đây là sai về nghĩa vụ của đại lý bảo hiểm: ",
+      "answer": "3"
+    },
+    {
+      "1": "A. Giữ lại rủi ro ",
+      "2": "B. Né tránh rủi ro ",
+      "3": "C. Kiểm soát rủi ro ",
+      "4": "D. Chuyển giao rủi ro",
+      "ID": "ILP-VIDI-199",
+      "question": "Bảo hiểm là phương pháp phòng tránh rủi ro nào sau đây: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Bảo hiểm nhân thọ ",
+      "2": "B. Bảo hiểm tai nạn ",
+      "3": "C. Bảo hiểm trách nhiệm",
+      "4": "D. A, B và C đúng",
+      "ID": "ILP-VIDI-200",
+      "question": "Nguyên tắc khoán được áp dụng cho: ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Tư vấn sản phẩm bảo hiểm, giới thiệu sản phẩm bảo hiểm, chào bán sản phẩm bảo hiểm, thu xếp việc gia kết hợp đồng bảo hiểm, thu phí bảo hiểm, thu thập hồ sơ để phục vụ cho việc giải quyết bồi thường, trả tiền bảo hiểm. ",
+      "2": "B. Giới thiệu, chào bán bảo hiểm, giám định bảo hiểm, trả tiền bảo hiểm ",
+      "3": "C. Giới thiệu, chào bán bảo hiểm, giải quyết bồi thường bảo hiểm ",
+      "4": "D. A, B và C đúng",
+      "ID": "ILP-VIDI-201",
+      "question": "Theo luật kinh doanh bảo hiểm, hoạt động đại lý bảo hiểm bao gồm hoạt động nào sau đây: ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Sau một khoảng thời gian nhất định kế từ thời điểm hiệu lực hợp đồng bảo hiểm, doanh nghiệp bảo hiểm không còn quyền từ chối nghĩa vụ chi trả quyền lợi bảo hiểm, nếu các nội dung kê khai không trung thực, đầy đủ của bên mua bảo hiểm không ảnh hưởng đến quyết định chấp nhận bảo hiểm của doanh nghiệp bảo hiểm ",
+      "2": "B. Sau một khoảng thời gian nhất định kế từ thời điểm hiệu lực hợp đồng bảo hiểm, doanh nghiệp bảo hiểm vẫn có quyền từ chối nghĩa vụ chi trả quyền lợi bảo hiểm, nếu các nội dung kê khai không trung thực, đầy đủ của bên mua bảo hiểm không ảnh hưởng đến quyết định chấp nhận bảo hiểm của doanh nghiệp bảo hiểm",
+      "ID": "ILP-VIDI-202",
+      "question": "Chọn phương án đúng về nguyên tắc “miễn truy xét” trong hợp đồng bảo hiểm nhân thọ: ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Góp phần đảm bảo an toàn cho nền kinh tế - xã hội. ",
+      "2": "B. Tạo thêm việc làm cho xã hội. ",
+      "3": "C. Tạo nếp sống tiết kiệm và mang đến trạng thái an toàn về mặt tinh thần cho xã hội. ",
+      "4": "D. A, B, C đúng.",
+      "ID": "ILP-VIDI-203",
+      "question": "Vai trò xã hội của bảo hiểm là: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Bên mua bảo hiểm là tổ chức, cá nhân giao kết hợp đồng bảo hiểm với doanh nghiệp bảo hiểm và đóng phí bảo hiểm. ",
+      "2": "B. Người thụ hưởng là tổ chức, cá nhân được doanh nghiệp bảo hiểm chỉ định để nhận tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm. ",
+      "3": "C. Bên mua bảo hiểm và người được bảo hiểm không thể là người thụ hưởng. ",
+      "4": "D. A, B, C đúng.",
+      "ID": "ILP-VIDI-204",
+      "question": "Theo luật kinh doanh bảo hiểm, phát biểu nào sau đây là đúng: ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Người thụ hưởng là tổ chức, cá nhân được bên mua bảo hiểm chỉ định để nhận tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm. ",
+      "2": "B. Người thụ hưởng là tổ chức, cá nhân được Người được bảo hiểm chỉ định để nhận tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm ",
+      "3": "C. Người thụ hưởng là tổ chức, cá nhân được doanh nghiệp bảo hiểm chỉ định để nhận tiền bảo hiểm theo thỏa thuận trong hợp đồng bảo hiểm ",
+      "4": "D. A và B đúng",
+      "ID": "ILP-VIDI-205",
+      "question": "Theo luật kinh doanh bảo hiểm, chọn phương án đúng về ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Đều thuộc nghiệp vụ bảo hiểm liên kết đầu tư. ",
+      "2": "B. Bên mua bảo hiểm được hưởng toàn bộ kết quả đầu tư từ quỹ liên kết chung/quỹ liên kết đơn vị. ",
+      "3": "C. Doanh nghiệp bảo hiểm được hưởng toàn bộ kết quả đầu tư từ quỹ liên kết chung/quỹ liên kết đơn vị. ",
+      "4": "D. Không có đáp án nào đúng.",
+      "ID": "ILP-VIDI-206",
+      "question": "Phát biểu nào sau đây không chính xác về nghiệp vụ bảo hiểm liên kết chung và liên kết đơn vị: ",
+      "answer": "3"
+    },
+    {
+      "1": "A. Doanh nghiệp bảo hiểm triển khai sản phẩm bảo hiểm liên kết đơn vị phải ủy thác cho công ty quản lý quỹ đã có kinh nghiệm quản lý quỹ thành viên hoặc quỹ mở để đầu tư các tài sản từ các quỹ liên kết đơn vị ",
+      "2": "B. Doanh nghiệp bảo hiểm triển khai sản phẩm bảo hiểm liên kết đơn vị được quyền chủ động quản lý, đầu tư các tài sản từ các quỹ liên kết đơn vị ",
+      "3": "C. Doanh nghiệp bảo hiểm triển khai sản phẩm bảo hiểm liên kết đơn vị được lựa chọn tự quản lý hoặc thuê công ty quản lý quỹ để quản lý danh mục đầu tư các tài sản của các quỹ liên kết đơn vị",
+      "ID": "ILP-VIDI-207",
+      "question": "Lựa chọn phương án đúng:",
+      "answer": "1"
+    },
+    {
+      "1": "A. Ngày định giá ngay trước ngày doanh nghiệp bảo hiểm nhận được yêu cầu mua hoặc bán đơn vị của quỹ liên kết đơn vị ",
+      "2": "B. Ngày định giá ngay sau ngày doanh nghiệp bảo hiểm nhận được yêu cầu mua hoặc bán đơn vị của quỹ liên kết đơn vị ",
+      "3": "C. Ngày định giá đầu tiên của tháng doanh nghiệp bảo hiểm nhận được yêu cầu mua hoặc bán đơn vị của quỹ liên kết đơn vị ",
+      "4": "D. Ngày định giá cuối cùng của tháng doanh nghiệp bảo hiểm nhận được yêu cầu mua hoặc bán đơn vị của quỹ liên kết đơn vị",
+      "ID": "ILP-VIDI-208",
+      "question": "Giá bán và giá mua các đơn vị của quỹ liên kết đơn vị được xác định dựa trên giá trị tài sản ròng của mỗi đơn vị của quỹ liên kết đơn vị vào ngày: ",
+      "answer": "2"
+    },
+    {
+      "1": "A. Thay đổi tỷ lệ đầu tư vào các quỹ liên kết đơn vị ",
+      "2": "B. Thay đổi số tiền bảo hiểm; Thay đổi phí bảo hiểm ",
+      "3": "C. Nhận các báo cáo thường niên và các quyền khác quy định tại quy tắc, điều khoản sản phẩm bảo hiểm liên kết đơn vị ",
+      "4": "D. Tất cả các đáp án đều đúng",
+      "ID": "ILP-VIDI-209",
+      "question": "Đối với sản phẩm bảo hiểm liên kết đơn vị, bên mua bảo hiểm có quyền nào sau đây: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Là rủi ro khi giá tài sản đầu tư bị ảnh hưởng bởi các sự kiện xảy ra trong công ty phát hành cũng như ngành nghề kinh doanh đó. ",
+      "2": "B. Là rủi ro khi đồng tiền mất giá gây ảnh hưởng đến giá trị của các khoản đầu tư và thu nhập từ các khoản đầu tư đó. ",
+      "3": "C. Là rủi ro khi tài sản đầu tư khó có khả năng chuyển đổi thành tiền mặt tại mức giá hợp lý. ",
+      "4": "D. Là rủi ro bên vay không hoàn trả khoản vay và/hoặc lãi suất khi đến hạn trả.",
+      "ID": "ILP-VIDI-210",
+      "question": "Rủi ro thanh toán: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Doanh nghiệp bảo hiểm thực hiện giải quyết yêu cầu mua thêm hoặc bán lại Đơn vị quỹ liên kết đơn vị tại ngày định giá vừa qua ",
+      "2": "B. Doanh nghiệp bảo hiểm không được phép từ chối việc bên mua bảo hiểm mua thêm hoặc bán lại Đơn vị quỹ liên kết đơn vị khi bên mua bảo hiểm đã đáp ứng các điều kiện theo quy định ",
+      "3": "C. Bên mua bảo hiểm chỉ được mua thêm hoặc bán lại Đơn vị quỹ liên kết đơn vị cho doanh nghiệp bảo hiểm ",
+      "4": "D. Giá mua hoặc giá bán Đơn vị quỹ liên kết đơn vị được định giá mỗi ngày",
+      "ID": "ILP-VIDI-211",
+      "question": "Hãy chọn các quy định đúng: ",
+      "answer": "2"
+    },
+    {
+      "1": "A. Phí rủi ro được khấu trừ theo tỷ lệ % phí bảo hiểm khi bên mua bảo hiểm thực hiện đóng phí bảo hiểm ",
+      "2": "B. Phí rủi ro được khấu trừ từ giá trị tài khoản của khách hàng. Được dùng để chi trả quyền lợi bảo hiểm rủi ro theo cam kết tại hợp đồng bảo hiểm ",
+      "3": "C. Phí rủi ro được khấu trừ từ giá trị tài khoản của khách hàng. Được dùng để bù đắp chi phí liên quan đến việc duy trì hợp đồng bảo hiểm ",
+      "4": "D. Phí rủi ro được xác định bằng tỷ lệ % giá trị tài sản ròng của quỹ liên kết đầu tư",
+      "ID": "ILP-VIDI-212",
+      "question": "Chọn đáp án đúng: ",
+      "answer": "2"
+    },
+    {
+      "1": "A. Cung cấp Bảng phân tích nhu cầu tham gia bảo hiểm ",
+      "2": "B. Tư vấn đầy đủ thông tin và giải thích các điều kiện, điều khoản bảo hiểm để nhận thức được các rủi ro liên quan ",
+      "3": "C. Lựa chọn các quỹ liên kết đơn vị phù hợp trước khi giao kết hợp đồng bảo hiểm liên kết đơn vị hoặc khi nhận chuyển giao hợp đồng bảo hiểm liên kết đơn vị theo thỏa thuận trong hợp đồng bảo hiểm liên kết đơn vị ",
+      "4": "D. Tất cả các đáp án đều đúng",
+      "ID": "ILP-VIDI-213",
+      "question": "Đối với sản phẩm bảo hiểm liên kết đơn vị, bên mua bảo hiểm có quyền yêu cầu doanh nghiệp bảo hiểm: ",
+      "answer": "4"
+    },
+    {
+      "1": "A. Trong mỗi năm hợp đồng, tổng số phí bảo hiểm đóng thêm không được vượt quá 05 lần mức phí bảo hiểm cơ bản định kỳ của năm hợp đồng hiện tại ",
+      "2": "B. Trong mỗi năm hợp đồng, tổng số phí bảo hiểm đóng thêm không được vượt quá 05 lần mức phí bảo hiểm cơ bản quy năm của năm hợp đồng hiện tại ",
+      "3": "C. Không có giới hạn đối với phí bảo hiểm đóng thêm",
+      "ID": "ILP-VIDI-214",
+      "question": "Chọn phương án đúng về phí bảo hiểm đóng thêm của hợp đồng bảo hiểm liên kết đầu tư đóng phí định kỳ: ",
+      "answer": "2"
+    },
+    {
+      "1": "A. Trái phiếu, cổ phiếu ",
+      "2": "B. Cổ phiếu, các khoản vay ",
+      "3": "C. Các khoản vay, trái phiếu ",
+      "4": "D. A, B đúng",
+      "ID": "ILP-VIDI-215",
+      "question": "Công cụ nào giao dịch trên thị trường nợ: ",
+      "answer": "3"
+    },
+    {
+      "1": "A. 130,56 triệu ",
+      "2": "B. 137,4 triệu ",
+      "3": "C. 139,39 triệu",
+      "4": "D. 142,55 triệu.",
+      "ID": "ILP-VIDI-216",
+      "question": "Khách hàng tham gia sản phẩm LKĐV với 3 quỹ: 3.000 đơn vị (ĐV) quỹ Tăng Trưởng; 4.000 Đơn vị quỹ Cân Bằng; 3.000  Đơn vị quỹ Thận Trọng \r\nGiá Đơn vị quỹ ngày 03/2: Quỹ Tăng Trưởng 15.000đ; Quỹ Cân Bằng 12.000đ; Quỹ Thận Trọng 10.000đ \r\nGiá Đơn vị quỹ ngày 10/2: Quỹ Tăng Trưởng 15.500đ; Quỹ Cân Bằng 12.000đ; Quỹ Thận Trọng10.000đ \r\nGiá Đơn vị quỹ ngày 17/2: Quỹ Tăng Trưởng 20.000đ; Quỹ Cân Bằng 12.000đ; Quỹ Thận Trọng 10.000đ \r\nGiá Đơn vị quỹ ngày 24/2: Quỹ Tăng Trưởng 20.000đ; Quỹ Cân Bằng 12.500đ; Quỹ Thận Trọng10.000đ \r\nNgày 15.02 phí BH rủi ro là 600.000đ và trừ theo tỷ lệ 30% quỹ tăng trưởng, 40% quỹ cân bằng, 30% quỹ thận trọng vào ngày 17/02. \r\nTính Giá trị tài khoản của khách hàng vào ngày 25/02/2024? ",
+      "answer": "3"
+    },
+    {
+      "1": "A. 592,6 triệu ",
+      "2": "B. 692,6 triệu ",
+      "3": "C. 792,6 triệu",
+      "ID": "ILP-VIDI-217",
+      "question": "Phí ban đầu của phí bảo hiểm cơ bản: Năm 1 là 60%; Năm 2 là 40%; Năm 3 là 10%; Năm 4 là 10%; Năm 5 là 2%. \r\nPhí ban đầu của phí bảo hiểm đóng thêm: Năm 1 là 5%; Năm 2 là 2%; Năm 3 là 2%; Năm 4 là 2%; Năm 5 là 2%. \r\nKhách hàng tham gia hợp đồng bảo hiểm ngày 1/2/2021 đóng 150 triệu đồng, bao gồm Phí bảo hiểm cơ bản: 50 triệu đồng; Phí bảo hiểm đóng thêm 100 triệu đồng.\r\nNgày 5/4/2021 đóng 100 triệu đồng. \r\nNgày 1/2/2022 đóng 180 triệu đồng; \r\nNgày 6/3/2022 đóng 20 triệu đồng. \r\nNgày 1/2/2023 đóng 200 triệu đồng. \r\nNgày 1/2/2024 đóng 120 triệu đồng\r\nHỏi Số tiền đã phân bổ vào Giá trị tài khoản hợp đồng để mua Đơn vị quỹ là bao nhiêu? ",
+      "answer": "2"
+    },
+    {
+      "1": "2.150 Đơn vị quỹ ",
+      "2": "2.650 Đơn vị quỹ ",
+      "3": "3.150 đơn vị quỹ ",
+      "4": "3.650 Đơn vị quỹ",
+      "ID": "ILP-VIDI-218",
+      "question": "Phí ban đầu của phí bảo hiểm cơ bản: Năm 1 là 60%; Năm 2 là 40%; Năm 3 là 10%; Năm 4 là 10%; Năm 5 là 2%. \r\nPhí ban đầu của phí bảo hiểm đóng thêm: Năm 1 là 5%; Năm 2 là 2%; Năm 3 là 2%; Năm 4 là 2%; Năm 5 là 2%. \r\nTỷ lệ phân bổ 3 quỹ: Tăng trưởng 30%; Cân Bằng 30%; Thận Trọng 40%. \r\nGiá Đơn vị quỹ: Tăng trưởng 15.000đ; Cân bằng 12.000đ; Thận trọng 10.000đ \r\nKhách hàng đóng: 30 triệu đồng phí bảo hiểm cơ bản; 120 triệu đồng phí bảo hiểm đóng thêm \r\nHỏi: Số lượng Đơn vị quỹ Cân Bằng là bao nhiêu? ",
+      "answer": "3"
+    },
+    {
+      "1": "A. 4.250 Đơn vị quỹ ",
+      "2": "B. 5.250 Đơn vị quỹ ",
+      "3": "C. 6.250 Đơn vị quỹ",
+      "ID": "ILP-VIDI-219",
+      "question": "Phí ban đầu của phí bảo hiểm cơ bản: Năm 1 là 60%; Năm 2 là 40%; Năm 3 là 10%; Năm 4 là 10%; Năm 5 là 2%. \r\nPhí ban đầu của phí bảo hiểm đóng thêm: Năm 1 là 5%; Năm 2 là 2%; Năm 3 là 2%; Năm 4 là 2%; Năm 5 là 2%. \r\nTỷ lệ phân bổ 3 quỹ: Tăng trưởng 20%; Cân Bằng 60%; Thận Trọng 20%. \r\nGiá Đơn vị quỹ: Tăng trưởng 15.000đ; Cân bằng 12.000đ; Thận trọng 10.000đ \r\nKhách hàng đóng phí: 25 triệu đồng phí bảo hiểm cơ bản; 100 triệu đồng phí bảo hiểm đóng thêm Hỏi: Số lượng quỹ Cân Bằng là bao nhiêu? ",
+      "answer": "2"
+    },
+    {
+      "1": "A. 86,5 triệu ",
+      "2": "B. 96,5 triệu ",
+      "3": "C. 106,5 triệu",
+      "ID": "ILP-VIDI-220",
+      "question": "Số lượng Đơn vị quỹ các quỹ như sau: 3.000 Đơn vị quỹ Tăng Trưởng; 2.000 Đơn vị quỹ Cân Bằng; 2.000 Đơn vị quỹ Thận Trọng. \r\nGiá Đơn vị quỹ ngày 3/2: quỹ Tăng Trưởng 15.000đ; quỹ Cân Bằng 12.000đ; quỹ Thận Trọng 10.000đ \r\nGiá Đơn vị quỹ ngày 10/2: quỹ Tăng Trưởng 15.500đ; quỹ Cân Bằng 12.000đ; quỹ Thận Trọng10.000đ \r\nGiá Đơn vị quỹ ngày 17/2: quỹ Tăng Trưởng 16.000đ; quỹ Cân Bằng 12.500đ; quỹ Thận Trọng 10.300đ \r\nGiá Đơn vị quỹ ngày 24/2: quỹ Tăng Trưởng 16.500đ; quỹ Cân Bằng 12.500đ; quỹ Thận Trọng 11.000đ  \r\nTính giá trị tài khoản hợp đồng ngày 25/2, biết rằng  không có phí bị trừ từ 3/2 – 25/2 ",
+      "answer": "2"
+    },
+    {
+      "1": "A. 2.520 Đơn vị quỹ ",
+      "2": "B. 3.520 Đơn vị quỹ",
+      "ID": "ILP-VIDI-221",
+      "question": "Phí bảo hiểm cơ bản đóng 30 triệu đồng. Phí bảo hiểm đóng thêm 120 triệu đồng. Khách hàng chọn tỷ lệ đầu tư là quỹ Tăng trưởng 30%, quỹ Cân bằng 30%, quỹ Thận trọng 40%. \r\nPhí ban đầu của phí bảo hiểm cơ bản: Năm 1: 60%, Năm 2: 40%, Năm 3:10%, Năm 4: 10%. Năm 5: 2% \r\nPhí ban đầu của phí bảo hiểm đóng thêm: Năm 1: 5%, Năm 2: 2%, Năm 3: 2%, Năm 4: 2%, Năm 5: 1% \r\nGiá Đơn vị quỹ Tăng trưởng: 15.000đ, quỹ Cân bằng 12.000đ, quỹ Thận trọng: 10.000đ \r\nTính số lượng Đơn vị quỹ Tăng trưởng? ",
+      "answer": "1"
+    },
+    {
+      "1": "A. 295 triệu ",
+      "2": "B. 305 triệu",
+      "ID": "ILP-VIDI-222",
+      "question": "Phí ban đầu của phí bảo hiểm cơ bản: Năm 1: 60%, Năm 2: 40%, Năm 3:10%, Năm 4: 10%. Năm 5: 2% \r\nPhí ban đầu của phí bảo hiểm đóng thêm: Năm 1: 5%, Năm 2: 2%, Năm 3: 2%, Năm 4: 2%, Năm 5: 1% \r\nNgày 2/2/2024 Khách hàng A mua sản phẩm bảo hiểm liên kết đơn vị với mức phí cơ bản là 50 triệu đồng và tham gia phí đóng thêm 200 triệu đồng. \r\nNgày 4/5 khách hàng tiếp tục đóng 100 triệu phí bảo hiểm. \r\nTính số phí bảo hiểm của khách hàng được phân bổ vào giá trị tài khoản để mua các Đơn vị quỹ trong hợp đồng bảo hiểm.",
+      "answer": "2"
+    },
+    {
+      "1": "A. 2.520 ",
+      "2": "B. 3.150 ",
+      "3": "C. 5.040 ",
+      "4": "D. 6.130",
+      "ID": "ILP-VIDI-223",
+      "question": "Phí ban đầu của phí bảo hiểm cơ bản: Năm 1 là 60%; Năm 2 là 40%; Năm 3 là 10%; Năm 4 là 10%; Năm 5 là 2%. \r\nPhí ban đầu của phí bảo hiểm đóng thêm: Năm 1 là 5%; Năm 2 là 2%; Năm 3 là 2%; Năm 4 là 2%; Năm 5 là 2%. \r\nTỷ lệ phân bổ 3 quỹ: Tăng trưởng 30%; Cân Bằng 30%; Thận Trọng 40%. \r\nGiá Đơn vị quỹ: Tăng trưởng 15.000đ; Cân bằng 12.000đ; Thận trọng 10.000đ \r\nKhách hàng đóng phí: 30 triệu đồng vào giá trị tài khoản cơ bản; 120 triệu đồng vào tài khoản đóng thêm \r\nHỏi: Số lượng Đơn vị quỹ Thận Trọng là bao nhiêu? ",
+      "answer": "3"
+    },
+    {
+      "1": "A. 50 triệu ",
+      "2": "B. 55,5 triệu ",
+      "3": "C. 55,59 triệu ",
+      "4": "D. 60 triệu",
+      "ID": "ILP-VIDI-224",
+      "question": "Số lượng Đơn vị quỹ của 3 quỹ như sau: 1.000 Đơn vị quỹ Tăng Trưởng; 2.000 Đơn vị quỹ Cân Bằng; 1.000 Đơn vị quỹ Thận Trọng Giá Đơn vị quỹ ngày 3/2: quỹ Tăng Trưởng 15.000đ; quỹ Cân Bằng 12.000đ; quỹ Thận Trọng 10.000đ \r\nGiá Đơn vị quỹ ngày 10/2: quỹ Tăng Trưởng 15.500đ; quỹ Cân Bằng 12.000đ; quỹ Thận Trọng10.000đ \r\nGiá Đơn vị quỹ ngày 17/2: quỹ Tăng Trưởng 20.000đ; quỹ Cân Bằng 12.500đ; quỹ Thận Trọng 10.000đ \r\nGiá Đơn vị quỹ ngày 24/2: quỹ Tăng Trưởng 20.000đ; quỹ Cân Bằng 12.500đ; quỹ Thận Trọng 11.000đ \r\nCông ty tính phí bảo hiểm rủi ro là 400.000đ. Phí bảo hiểm rủi ro được khấu trừ theo tỷ lệ 25% quỹ Tăng trưởng, 50% quỹ Cân bằng, 25% quỹ Thận trọng ( vào ngày 17/02/2024). \r\nTính Giá trị tài khoản vào ngày 25/02. ",
+      "answer": "3"
+    },
+    {
+      "1": "A. 5.025 Đơn vị quỹ Tăng trưởng, 3.138 Đơn vị quỹ Cân bằng, 2.510 Đơn vị quỹ Thận trọng ",
+      "2": "B. 2.510 Đơn vị quỹ Tăng trưởng, 3.138 Đơn vị quỹ Cân bằng, 6.285 Đơn vị quỹ Thận trọng ",
+      "3": "C. 2.510 Đơn vị quỹ Tăng trưởng, 3.138 Đơn vị quỹCân bằng, 5.024 Đơn vị quỹ Thận trọng ",
+      "4": "D. 3.510 Đơn vị quỹ Tăng trưởng, 4.138 Đơn vị quỹ Cân bằng, 5.024 Đơn vị quỹ Thận trọng",
+      "ID": "ILP-VIDI-225",
+      "question": "Phí ban đầu của phí bảo hiểm cơ bản: Năm 1 là 60%; Năm 2 là 40%; Năm 3 là 10%; Năm 4 là 10%; Năm 5 là 2%. \r\nPhí ban đầu của phí bảo hiểm đóng thêm: Năm 1 là 5%; Năm 2 là 2%; Năm 3 là 2%; Năm 4 là 2%; Năm 5 là 2%. \r\nTỷ lệ phân bổ 3 quỹ: Tăng trưởng 30%; Cân Bằng 30%; Thận Trọng 40%. \r\nGiá Đơn vị quỹ ngày 3/2: Tăng trưởng 15.000đ; Cân bằng 12.000đ; Thận trọng 10.000đ \r\nGiá Đơn vị quỹ ngày 10/2: Tăng trưởng 12.000đ; Cân bằng 10.000đ; Thận trọng 10.000đ \r\nNgày 2/2 KH đóng 30 triệu đồng phí bảo hiểm cơ bản và 120 triệu đồng phí bảo hiểm đóng thêm. \r\nNgày 5/2 Phí bảo hiểm rủi ro là 400.000 đồng và chờ phân bổ vào ngày 10/2/2023. \r\nTính số lượng Đơn vị quỹ khách hàng nắm giữ sau khi trừ phí bảo hiểm rủi ro. ",
+      "answer": "3"
+    },
+    {
+      "1": "A. 2.800 Đơn vị quỹ ",
+      "2": "B. 4.200 Đơn vị quỹ ",
+      "3": "C. 4.500 Đơn vị quỹ ",
+      "4": "D. 7.000 Đơn vị quỹ",
+      "ID": "ILP-VIDI-226",
+      "question": "Phí ban đầu của phí bảo hiểm cơ bản: Năm 1 là 60%; Năm 2 là 40%; Năm 3 là 10%; Năm 4 là 10%; Năm 5 là 2%. \r\nPhí ban đầu của phí bảo hiểm đóng thêm: Năm 1 là 5%; Năm 2 là 2%; Năm 3 là 2%; Năm 4 là 2%; Năm 5 là 2%. \r\nTỷ lệ phân bổ 3 quỹ: Tăng trưởng 25%; Cân Bằng 50%; Thận Trọng 25%. \r\nGiá Đơn vị quỹ: Tăng trưởng 15.000đ; Cân bằng 12.000đ; Thận trọng 10.000đ \r\nKhách hàng đóng phí: 40 triệu đồng phí bảo hiểm cơ bản, 160 triệu đồng phí bảo hiểm đóng thêm \r\nHỏi: Số lượng Đơn vị quỹ Thận Trọng? ",
+      "answer": "2"
+    },
+    {
+      "1": "A. 2.800 Đơn vị quỹ ",
+      "2": "B. 4.200 Đơn vị quỹ ",
+      "3": "C. 4.500 Đơn vị quỹ ",
+      "4": "D. 7.000 Đơn vị quỹ",
+      "ID": "ILP-VIDI-227",
+      "question": "Phí ban đầu của phí bảo hiểm cơ bản: Năm 1 là 60%; Năm 2 là 40%; Năm 3 là 10%; Năm 4 là 10%; Năm 5 là 2%. \r\nPhí ban đầu của phí bảo hiểm đóng thêm: Năm 1 là 5%; Năm 2 là 2%; Năm 3 là 2%; Năm 4 là 2%; Năm 5 là 2%. \r\nTỷ lệ phân bổ 3 quỹ: Tăng trưởng 25%; Cân Bằng 50%; Thận Trọng 25%. \r\nGiá Đơn vị quỹ: Tăng trưởng 15.000đ; Cân bằng 12.000đ; Thận trọng 10.000đ \r\nKhách hàng đóng 40 triệu phí bảo hiểm cơ bản, 160 triệu phí bảo hiểm đóng thêm \r\nHỏi: Số lượng Đơn vị quỹ Tăng Trưởng ",
+      "answer": "1"
+    },
+    {
+      "1": "A. Doanh nghiệp bảo hiểm không được phép từ chối việc bên mua bảo hiểm mua thêm hoặc bán lại Đơn vị quỹ liên kết đơn vị khi bên mua bảo hiểm đã đáp ứng các điều kiện theo quy định pháp luật về mua và bán các Đơn vị quỹ liên kết đơn vị ",
+      "2": "B. Bên mua bảo hiểm có quyền mua thêm Đơn vị quỹ liên kết đơn vị trong trường hợp hợp đồng bảo hiểm của bên mua bảo hiểm hết hiệu lực ",
+      "3": "C. Bên mua bảo hiểm có quyền mua thêm hoặc bán lại Đơn vị quỹ liên kết đơn vị cho ngân hàng giám sát.",
+      "ID": "ILP-VIDI-228",
+      "question": "Phát biểu nào sau đây đúng khi nói về việc mua và bán các Đơn vị quỹ của quỹ liên kết đơn vị: ",
+      "answer": "1"
+    }
+  
+  ]
